@@ -1,0 +1,28 @@
+<ion-header-bar class="bar-positive">
+  <h2 class="title">Detalle</h2>
+</ion-header-bar>
+
+<ion-view>
+  <ion-content>
+    <ion-list class="list-inset">
+      <ion-item class="item-text-wrap" ng-repeat="item in tips | filter: { shortname: whichartist }">
+          <img ng-src="img/{{item.name}}_tn.jpg" alt="{{ item.name }} Photo">
+          <h3>{{ item.title }}</h3>
+          <div style="margin-left: 17px;">
+              <p style="font-family: Helvetica Neue,​Roboto,​sans-serif;font-size: 18px" align="justify">{{ item.detail }}</p>    
+          </div>    
+          <div style="margin-left: 30px;">    
+              <p align="justify" ng-if="item.subdetail">  <li ng-if="item.subdetail">  {{item.subdetail}}  </li></p>
+              <p align="justify" ng-if="item.subdetail_1"><li ng-if="item.subdetail_1">{{item.subdetail_1}}</li></p>
+              <p align="justify" ng-if="item.subdetail_2"><li ng-if="item.subdetail_2">{{item.subdetail_2}}</li></p>
+              <p align="justify" ng-if="item.subdetail_3"><li ng-if="item.subdetail_3">{{item.subdetail_3}}</li></p>
+              <p align="justify" ng-if="item.subdetail_4"><li ng-if="item.subdetail_4">{{item.subdetail_4}}</li></p>
+              <p align="justify" ng-if="item.subdetail_5"><li ng-if="item.subdetail_5">{{item.subdetail_5}}</li></p>
+              <p align="justify" ng-if="item.subdetail_6"><li ng-if="item.subdetail_6">{{item.subdetail_6}}</li></p>
+              <p align="justify" ng-if="item.subdetail_7"><li ng-if="item.subdetail_7">{{item.subdetail_7}}</li></p>
+              <p align="justify" ng-if="item.subdetail_8"><li ng-if="item.subdetail_8">{{item.subdetail_7}}</li></p>
+        </div>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
