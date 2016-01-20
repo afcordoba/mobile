@@ -55,12 +55,12 @@ angular.module('starter', ['ionic'])
       }
     })
 
-    .state('tabs.calendar', {
-      url: '/calendar',
+    .state('tabs.multas', {
+      url: '/multas',
       views: {
-        'calendar-tab': {
-          templateUrl: 'templates/calendar.html',
-          controller: 'CalendarController'
+        'multas-tab': {
+          templateUrl: 'templates/multas.html',
+          controller: 'MultasController'
         }
       }
     });
@@ -68,18 +68,18 @@ angular.module('starter', ['ionic'])
   $urlRouterProvider.otherwise('/tab/home');
 })
 
-.controller('CalendarController', ['$scope', '$http', '$state',
+.controller('MultasController', ['$scope', '$http', '$state',
     function($scope, $http, $state) {
       $http.get('js/data.json').success(function(data) {
-      $scope.calendar = data.calendar;
+      $scope.multas = data.multas;
 
-      $scope.onItemDelete = function(dayIndex, item) {
-        $scope.calendar[dayIndex].schedule.splice($scope.calendar[dayIndex].schedule.indexOf(item), 1);
+      $scope.onItemDelete = function(index, item) {
+        $scope.multas[index].schedule.splice($scope.multas[index].schedule.indexOf(item), 1);
       };
 
       $scope.doRefresh = function() {
         $http.get('js/data.json').success(function(data) {
-          $scope.calendar = data.calendar;
+          $scope.multas = data.multas;
           $scope.$broadcast('scroll.refreshComplete');
         });
       };

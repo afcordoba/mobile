@@ -22,8 +22,8 @@
       <img ng-src="img/{{item.name}}_tn.jpg" alt="{{ item.name }} Photo">
       <h3>{{item.title}}</h3>
       <p>
-          {{item.detail | limitTo: 100 }} {{item.subdetail | limitTo: 10}}
-          {{ (item.detail.length + item.subdetail.length) > 150 ? '&hellip; AMPLIAR' : ''}} 
+          {{item.detail | limitTo: 100 }} {{item.subdetail | limitTo: 40}}
+          {{ (item.detail.length + item.subdetail.length) > 80 ? '&hellip; (AMPLIAR)' : ''}} 
 
       </p>
       <button class="button button-clear icon ion-star button-assertive" ng-click="toggleStar(item)" ng-show="item.star"></button>
