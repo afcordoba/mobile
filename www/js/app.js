@@ -59,8 +59,16 @@ angular.module('starter', ['ionic'])
       url: '/multas',
       views: {
         'multas-tab': {
-          templateUrl: 'templates/multas.html',
-          controller: 'MultasController'
+          templateUrl: 'templates/multa.html',
+          controller: ''
+        }
+      }
+    })
+    .state('tabs.contacto', {
+      url: '/contacto',
+      views: {
+        'contacto-tab': {
+          templateUrl: 'templates/contacto.html'
         }
       }
     });
