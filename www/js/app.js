@@ -19,6 +19,7 @@ angular.module('starter', ['ionic'])
 })
 
 .config(function($stateProvider, $urlRouterProvider) {
+
   $stateProvider
     .state('tabs', {
       url: '/tab',
@@ -55,12 +56,21 @@ angular.module('starter', ['ionic'])
       }
     })
 
-    .state('tabs.multas', {
+    .state('tabs.multa', {
+      url: '/multa',
+      views: {
+        'multa-tab': {
+          templateUrl: 'templates/multa.html',
+          controller: 'MultasController'
+        }
+      }
+    })
+    .state('multas', {
       url: '/multas',
       views: {
         'multas-tab': {
-          templateUrl: 'templates/multa.html',
-          controller: ''
+          templateUrl: 'templates/multas.html',
+          controller: 'MultasController'
         }
       }
     })
