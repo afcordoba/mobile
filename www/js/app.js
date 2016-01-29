@@ -86,6 +86,20 @@ angular.module('starter', ['ionic'])
   $urlRouterProvider.otherwise('/tab/home');
 })
 
+  .controller('DetailCtrl',['$scope', '$http', '$state',
+    function($scope, $http, $state) {
+    var tips = [];
+    for (var i = 0; i < tips.length; i++) {
+      if ($scope.tips[i].id === parseInt($stateParams.aId)) {
+        alert(i);
+        console.log(i);
+        tips[0] = $scope.tips[i];
+        break;
+      }
+    }
+    $scope.tips = tips[i];
+  }])
+
 .controller('MultasController', ['$scope', '$http', '$state',
     function($scope, $http, $state) {
       $http.get('js/data.json').success(function(data) {
@@ -137,3 +151,4 @@ angular.module('starter', ['ionic'])
       };
     });
     }]);
+

@@ -5,7 +5,7 @@
 <ion-view>
   <ion-content>
     <ion-list class="list-inset">
-      <ion-item class="item-text-wrap" ng-repeat="item in tips | filter: { shortname: whichartist }">
+      <ion-item class="item-text-wrap" ng-repeat="item in tips  | filter: { id: whichartist } | limitTo :1">
           <img ng-src="img/{{item.name}}_tn.jpg" alt="{{ item.name }} Photo">
           <h3>{{ item.title }}</h3>
           <div style="margin-left: 17px;">
