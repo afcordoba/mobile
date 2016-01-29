@@ -15,6 +15,7 @@ angular.module('starter', ['ionic'])
     if (window.StatusBar) {
       StatusBar.styleDefault();
     }
+  
   });
 })
 
@@ -86,28 +87,26 @@ angular.module('starter', ['ionic'])
   $urlRouterProvider.otherwise('/tab/home');
 })
 
-  .controller('DetailCtrl',['$scope', '$http', '$state',
-    function($scope, $http, $state) {
-    var tips = [];
-    for (var i = 0; i < tips.length; i++) {
-      if ($scope.tips[i].id === parseInt($stateParams.aId)) {
-        alert(i);
-        console.log(i);
-        tips[0] = $scope.tips[i];
-        break;
-      }
-    }
-    $scope.tips = tips[i];
-  }])
+  
 
 .controller('MultasController', ['$scope', '$http', '$state',
     function($scope, $http, $state) {
       $http.get('js/data.json').success(function(data) {
-      $scope.multas = data.multas;
 
-      $scope.onItemDelete = function(index, item) {
-        $scope.multas[index].schedule.splice($scope.multas[index].schedule.indexOf(item), 1);
-      };
+      var deviceInformation = ionic.Platform.device();
+
+      var isWebView = ionic.Platform.isWebView();
+      var isIPad = ionic.Platform.isIPad();
+      var isIOS = ionic.Platform.isIOS();
+      var isAndroid = ionic.Platform.isAndroid();
+      var isWindowsPhone = ionic.Platform.isWindowsPhone();
+
+      var currentPlatform = ionic.Platform.platform();
+      var currentPlatformVersion = ionic.Platform.version();
+
+      ionic.Platform.exitApp(); // stops the app
+      $scope.isAndroid = isAndroid;  
+      $scope.multas = data.multas;
 
       $scope.doRefresh = function() {
         $http.get('js/data.json').success(function(data) {
@@ -129,6 +128,19 @@ angular.module('starter', ['ionic'])
       $scope.tips = data.tips;
       $scope.whichartist = $state.params.aId;
       $scope.data = {showDelete: false, showReorder: false};
+      var deviceInformation = ionic.Platform.device();
+
+      var isWebView = ionic.Platform.isWebView();
+      var isIPad = ionic.Platform.isIPad();
+      var isIOS = ionic.Platform.isIOS();
+      var isAndroid = ionic.Platform.isAndroid();
+      var isWindowsPhone = ionic.Platform.isWindowsPhone();
+
+      var currentPlatform = ionic.Platform.platform();
+      var currentPlatformVersion = ionic.Platform.version();
+
+      ionic.Platform.exitApp(); // stops the app
+      $scope.isAndroid = isAndroid;
 
       $scope.onItemDelete = function(item) {
         $scope.tips.splice($scope.tips.indexOf(item), 1);

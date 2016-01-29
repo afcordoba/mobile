@@ -1,12 +1,10 @@
-<ion-view view-title="+ Control Vial">
+<ion-view view-title="+ Control Vial Listado">
 
   <ion-nav-buttons side="primary">
-    <button
-      class="button button-icon ion-navicon"
-      ng-click="data.showReorder = !data.showReorder; data.showDelete = false;">
+    <button class="button button-icon ion-navicon" ng-click="data.showReorder = !data.showReorder; data.showDelete = false;">
     </button>
   </ion-nav-buttons>
-<ion-searchbar [(ngModel)]="searchQuery" (input)="getItems($event)"></ion-searchbar>
+<br ng-if="isAndroid"><br ng-if="isAndroid">
 <div class="bar bar-subheader item-input-inset bar-positive">
   <label class="item-input-wrapper">
     <i class="icon ion-search placeholder-icon"></i>
@@ -18,7 +16,7 @@
   <ion-refresher >
   </ion-refresher>
   <ion-list  show-reorder="data.showReorder">
-    <ion-item ng-class="{'star': item.star}" ng-repeat='item in tips  | filter: query | orderBy: title' class="item-thumbnail-left item-icon-right item-text-wrap" href="#/tab/list/{{item.id}}">
+    <ion-item ng-class="{'star': item.star}" ng-repeat='item in tips  | filter: query ' class="item-thumbnail-left item-icon-right item-text-wrap" href="#/tab/list/{{item.id}}">
       <img ng-src="img/{{item.name}}_tn.jpg" alt="{{ item.name }} Photo">
       <h3>{{item.title}}</h3>
       <p>
