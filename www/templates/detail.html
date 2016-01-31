@@ -1,4 +1,4 @@
-<ion-view view-title="+ Control Vial Detalle">
+<ion-view view-title="+ Control Vial">
 <ion-header-bar class="bar-positive">
   <h2 class="title">Detalle</h2>
 </ion-header-bar>
@@ -21,6 +21,16 @@
               <p align="justify" ng-if="item.subdetail_7"><li ng-if="item.subdetail_7">{{item.subdetail_7}}</li></p>
               <p align="justify" ng-if="item.subdetail_8"><li ng-if="item.subdetail_8">{{item.subdetail_7}}</li></p>
         </div>
+        <div class="card" ng-if="item.multa_1">
+          <h3 ng-if="item.multa_1">Multa</h3>
+          <div class="item item-text-wrap" ng-if="item.multa_1">
+            <p align="justify" ng-if="item.multa_1">  <li ng-if="item.multa_1">  {{item.multa_1}}  </li></p>
+            <p align="justify" ng-if="item.multa_2">  <li ng-if="item.multa_2">  {{item.multa_2}}  </li></p>
+            <p align="justify" ng-if="item.multa_3">  <li ng-if="item.multa_3">  {{item.multa_3}}  </li></p>
+            <p align="justify" ng-if="item.multa_4">  <li ng-if="item.multa_4">  {{item.multa_4}}  </li></p>
+            <p align="justify" ng-if="item.multa_5">  <li ng-if="item.multa_5">  {{item.multa_5}}  </li></p>
+          </div>
+        </div> 
       </ion-item>
     </ion-list>
   </ion-content>

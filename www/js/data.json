@@ -13,7 +13,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "ALCOHOLEMIA"
+      "title": "ALCOHOLEMIA",
+      "multa_1":"Negarse a realizar la prueba de alcoholemia: multa de 300 a 1000 U.F.",
+      "multa_2":"Conducir en estado de intoxicación alcohólica: multa de 200 a 1.000 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No cumplir con las obligaciones legales para participes de un accidente de tránsito, será sancionado con multa. Es obligatorio para quienes participan en un accidente de transito: detenerse inmediatamente, denunciar el hecho ante la autoridad de aplicacion, suministrar los datos de la licencia de conducir y del seguro obligatorio a la otra parte y a la autoridad interviniente, comparecer y declarar ante la autoridad de juzgamiento o investigacion cuando sean citados.",
       "id": 2,
@@ -27,7 +32,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "ACCIDENTES- OBLIGACIONES."
+      "title": "ACCIDENTES- OBLIGACIONES.",
+      "multa_1":"No cumplir con las obligaciones legales para participes de un accidente: multa de 200 a 1.000 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa: ",
       "id": 3,
@@ -41,7 +51,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "ADELANTAMIENTO INDEBIDO."
+      "title": "ADELANTAMIENTO INDEBIDO.",
+      "multa_1":"Adelantamiento por derecha: multa de 100 a 300 U.F.",
+      "multa_2" :"Adelantamiento en lugar prohibido: multa de 150 a 500 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir un vehículo sin anteojos o lentes de contacto cuando la licencia indique su obligación de uso, es motivo de multa.",
       "id": 4,
@@ -55,7 +70,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "ANTEOJOS - LENTES DE CONTACTO."
+      "title": "ANTEOJOS - LENTES DE CONTACTO.",
+      "multa_1":"Multa de 100 U.F. hasta 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir un vehículo sin audífonos cuando la licencia indique su obligación de uso es motivo de multa.",
       "id": 5,
@@ -69,7 +89,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "AUDIFONOS."
+      "title": "AUDIFONOS.",
+      "multa_1":"Multa de 100 U.F. hasta 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir utilizando auriculares es motivo de multa",
       "id": 6,
@@ -83,7 +108,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "AURICULARES."
+      "title": "AURICULARES.",
+      "multa_1":"Conducir utilizandolos: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Sera motivo de multa circular sin ajustarse a las reglas de circulación establecidas para las autopistas y semiautopistas :",
       "id": 7,
@@ -97,7 +127,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "AUTOPISTAS."
+      "title": "AUTOPISTAS.",
+      "multa_1":"No ajustarse a las reglas de circulación: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa.Las balizas portatiles (2) deben tener forma de triangulo equilatero con una superficie no menor a 0,5 m2, una longitud ente 0,4 y 0,5 m y un ancho entre 0,05 y 0,08 m. Debe contener material retrorreflectante rojo en un minImo de 0,25 m2, el resto puede ser material fluorescente anaranjado. En la base tendran un soporte que asegure su estabilidad. Debe cumplir con la Norma IRAM 10.031/83.",
       "id": 8,
@@ -111,7 +146,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "BALIZAS"
+      "title": "BALIZAS",
+      "multa_1":"Multa de 50 a 100 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Usar la bocina o señales acústicas (excepto en caso de peligro o en zona rural), o tener el vehículo sirena o bocina no autorizadas, es motivo de multa.",
       "id": 9,
@@ -125,7 +165,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "BOCINA."
+      "title": "BOCINA.",
+      "multa_1":"Multa de 50 a 100 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa.",
       "id": 10,
@@ -139,7 +184,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "BOLSA O SABANA MORTUORIA"
+      "title": "BOLSA O SABANA MORTUORIA",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa",
       "id": 11,
@@ -153,7 +203,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "BOTIQUIN DE PRIMEROS AUXILIOS"
+      "title": "BOTIQUIN DE PRIMEROS AUXILIOS",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 12,
@@ -167,7 +222,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CARGA:"
+      "title": "CARGA:",
+      "multa_1":"Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o insalubres: multa de 100 a 300 U.F.",
+      "multa_2" :"Transportar cualquier carga o elemento que perturbe la visibilidad: multa de 150 a 500 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Circular con la cédula de identificación del vehículo vencida (no siendo el Titular) es motivo de multa. Tambien es motivo de retencion de licencia.",
       "id": 13,
@@ -181,7 +241,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CEDULA VENCIDA."
+      "title": "CEDULA VENCIDA.",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir utilizando celular es motivo de multa.",
       "id": 14,
@@ -195,7 +260,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CELULAR."
+      "title": "CELULAR.",
+      "multa_1":"Multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "La falta de uso de alguno de los ocupantes del vehiculo es motivo de multa.",
       "id": 15,
@@ -209,7 +279,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CINTURON DE SEGURIDAD."
+      "title": "CINTURON DE SEGURIDAD.",
+      "multa_1":"Falta de uso: multa de 100 a 300 U.F. ",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Circular con vehículos que emitan gases, humos, ruidos, radiaciones u otras emanaciones contaminantes del ambiente, que excedan los límites reglamentarios es motivo de multa.",
       "id": 16,
@@ -223,7 +298,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CONTAMINACION."
+      "title": "CONTAMINACION.",
+      "multa_1":"Multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No circular por la calzada sobre la derecha es motivo de multa.",
       "id": 17,
@@ -237,7 +317,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CIRCULACION POR DERECHA."
+      "title": "CIRCULACION POR DERECHA.",
+      "multa_1":"No circular por la derecha: multa de 50 a 100 U.F. ",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Circular en el sentido contrario de la señalización es motivo de multa.",
       "id": 18,
@@ -251,7 +336,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CONTRAMANO."
+      "title": "CONTRAMANO.",
+      "multa_1":"Multa de 200 a 1000 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Circular con cubiertas con fallas o sin la profundidad legal de los canales en su banda de rodamiento, es motivo de multa. En vehículos de 1,6 mm, en ciclomotores de 0,5 mm. y en motocicletas la profundidad mínima será de 1 mm. Se consideran cubiertas con fallas las que presentan deterioros visibles como cortaduras que lleguen al casco, desprendimientos o separaciones del caucho o desgaste de la banda de rodamiento que deje expuestas las telas. Los neumaticos de un mismo eje o conjunto deben ser de igual tamaño, tipo, construccion, peso bruto y montados en aros de la misma dimension. Esta prohibida la utilizacion de neumaticos redibujados.",
       "id": 19,
@@ -265,7 +355,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CUBIERTAS:"
+      "title": "CUBIERTAS:",
+      "multa_1":"Circular con cubiertas con fallas o sin la profundidad legal: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 20,
@@ -279,7 +374,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "¿Cuándo corresponde RETENER LA LICENCIA DE CONDUCIR?"
+      "title": "¿Cuándo corresponde RETENER LA LICENCIA DE CONDUCIR?",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 21,
@@ -293,7 +393,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CHAPA PATENTE (placas de identificacion de dominio)."
+      "title": "CHAPA PATENTE (placas de identificacion de dominio).",
+      "multa_1":"Multa de 50 a 100 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa.",
       "id": 22,
@@ -307,7 +412,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "CHALECO REFLECTANTE"
+      "title": "CHALECO REFLECTANTE",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "La conducción, en rutas, autopistas y semiautopistas, a una distancia del vehículo que lo precede menor a 2 SEGUNDOS es motivo de multa.",
       "id": 23,
@@ -321,7 +431,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "DISTANCIA DE SEGURIDAD"
+      "title": "DISTANCIA DE SEGURIDAD",
+      "multa_1":"No respetar la distancia de seguridad: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Su uso es obligatorio hasta los 4 años. El incumplimiento de esta disposicion es motivo de multa.",
       "id": 24,
@@ -335,7 +450,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "DISPOSITIVOS DE RETENCION INFANTIL (SILLA PARA NIÑOS)"
+      "title": "DISPOSITIVOS DE RETENCION INFANTIL (SILLA PARA NIÑOS)",
+      "multa_1":"No usarla hasta los 4 años: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "DNI, licencia de conducir, cedula verde (o cedula azul en el supuesto que el vehiculo no sea de su propiedad), constancia de VTV o RTO, comprobante de poliza de seguro. No exhibirla es motivo de multa.",
       "id": 25,
@@ -349,7 +469,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "DOCUMENTACION OBLIGATORIA."
+      "title": "DOCUMENTACION OBLIGATORIA.",
+      "multa_1":"No exhibirla cuando es requerida: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir bajo los efectos de estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales para la conduccion segura, es motivo de multa.",
       "id": 26,
@@ -363,7 +488,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "DROGAS"
+      "title": "DROGAS",
+      "multa_1":"Conducir bajo sus efectos: multa de 200 a 1.000 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir utilizando pantallas o monitores de video VHF, DVD o similar en el interior del habitaculo del conductor es motivo de multa.",
       "id": 27,
@@ -377,7 +507,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "DVD"
+      "title": "DVD",
+      "multa_1":"Multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 28,
@@ -391,7 +526,12 @@
       "subdetail_7": "Estacionar, en zona urbana, por un periodo mayor de 5 días o del lapso que fije la autoridad local",
       "subdetail_8": "Estacionar, en zona urbana, en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento",
       "name": "icono_auto",
-      "title": "ESTACIONAMIENTO"
+      "title": "ESTACIONAMIENTO",
+      "multa_1":"No estacionar paralelamente al cordón: multa de 50 a 100 U.F.",
+      "multa_2" :"Estacionar donde se pueda afectar la seguridad, visibilidad o fluidez del tránsito o se oculte la señalización: multa de 100 a 300 U.F. ",
+      "multa_3":"Estacionar en las esquinas, sobre la senda para peatones o bicicletas, aceras, rieles, sobre la calzada (,y en los 10 metros anteriores y posteriores a la parada del transporte de pasajeros), frente a la puerta de hospitales, escuelas y otros servicios públicos (hasta 10 metros a cada lado de ellos), frente a la salida de cines, teatros y similares, durante su funcionamiento, en los accesos de garages en uso y de estacionamiento con ingreso habitual de vehículos o en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento: multa de 50 a 100 U.F.  ",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Para que tengan plena validez deben cumplir ciertos requisitos técnicos y legales, aprobados y homologados por el INTI. La confección del acta y su notificación deben cumplir ciertas formalidades. Cualquier defecto técnico o legal inhabilita la infracción.",
       "id": 29,
@@ -405,7 +545,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "FOTOMULTA"
+      "title": "FOTOMULTA",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Fugar o negarse a suministrar documentación o información quienes estén obligados a hacerlo es motivo de multa. Fugar habiendo participado de un accidente de transito es motivo de retencion del conductor. Fugar habiendo participado de un accidente de transito es motivo de retencion del conductor.",
       "id": 30,
@@ -419,7 +564,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "FUGA"
+      "title": "FUGA",
+      "multa_1":"Fugar o negarse a suministrar documentación o información quienes estén obligados a hacerlo es motivo de multa.",
+      "multa_2" :"Fugar habiendo participado de un accidente de transito es motivo de retencion del conductor.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No advertir la maniobra con suficiente antelación, mediante la señal luminosa correspondiente es motivo de multa.",
       "id": 31,
@@ -433,7 +583,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "GIRO"
+      "title": "GIRO",
+      "multa_1":"No advertir la maniobra: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Girar a la izquierda en vías de doble mano reguladas por semáforo sin señal que lo permita es motivo de multa.",
       "id": 32,
@@ -447,7 +602,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "GIRO A LA IZQUIERDA"
+      "title": "GIRO A LA IZQUIERDA",
+      "multa_1":"En vías de doble mano semaforizadas: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "La falta de recibo no puede ser motivo de multa.",
       "id": 33,
@@ -461,7 +621,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PAGO DE PRIMA DE SEGURO"
+      "title": "PAGO DE PRIMA DE SEGURO",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa. Debe estar construido segun normas IRAM, ubicarse dentro del habitaculo del vehiculo al alcance del conductor (excepto los mayores a 1 kg). El soporte debe impedir el desprendimiento, debe poder ser liberado facilmente para su empleo y ubicarse en un lugar que no cree riesgos.",
       "id": 34,
@@ -475,7 +640,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "MATAFUEGO"
+      "title": "MATAFUEGO",
+      "multa_1":"Multa de 50 a 100 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa: ",
       "id": 35,
@@ -489,7 +659,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "LICENCIA DE CONDUCIR."
+      "title": "LICENCIA DE CONDUCIR.",
+      "multa_1":"Circular estando legalmente inhabilitado: multa de 300 a 1000 U.F.",
+      "multa_2" :"Circular sin haber sido habilitado: multa de 100 a 300 U.F.",
+      "multa_3":"Habilitacion suspendida: multa de 150 a 500 U.F.",
+      "multa_4" :"Habilitacion vencida: multa de 100 a 300 U.F.,Licencia caduca: multa de 50 a 100 U.F.   ",
+      "multa_5" :"No portar licencia estando habilitado: multa de 50 a 100 U.F."
     },{
       "detail": "Circular en incumplimiento de las normas de transferencia del vehículo es motivo de multa.",
       "id": 36,
@@ -503,7 +678,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "TRANSFERENCIA."
+      "title": "TRANSFERENCIA.",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa: Circular sin portar el comprobante de la poliza de seguro. Circular sin tener cobertura de seguro obligatorio.",
       "id": 37,
@@ -517,7 +697,12 @@
       "subdetail_8": "",
       "subdetail": "",
       "name": "icono_auto",
-      "title": "SEGURO"
+      "title": "SEGURO",
+      "multa_1":"Circular sin portar el comprobante: multa de 50 a 100 U.F.",
+      "multa_2" :"Circular sin tener cobertura: multa de 100 a 300 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 38,
@@ -531,7 +716,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "LUCES"
+      "title": "LUCES",
+      "multa_1":"No cumplir las reglas previstas: multa de 100 a 300 U.F.",
+      "multa_2" :"Circular sin el sistema correspondiente: multa de 5.000 a 20.000 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Circular marcha atrás (excepto para estacionar, egresar de un garage o de una calle sin salida), es motivo de multa.",
       "id": 39,
@@ -545,7 +735,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "MARCHA ATRAS"
+      "title": "MARCHA ATRAS",
+      "multa_1":"Multa de 50 a 100 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Hasta los 10 años es obligatorio que los niños viajen en el asiento trasero con el cinturon de seguridad. Su incumplimiento es motivo de multa.",
       "id": 40,
@@ -559,7 +754,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "MENORES - UBICACION."
+      "title": "MENORES - UBICACION.",
+      "multa_1":"No viajar en el asiento trasero: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Conducir sin tener cumplida la edad reglamentaria es motivo de multa. Los menores de 18 años no pueden conducir ciclomotores en zonas céntricas, de gran concentración de vehículos o vías rápidas.",
       "id": 41,
@@ -573,7 +773,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "MENORES DE EDAD - CONDUCCION."
+      "title": "MENORES DE EDAD - CONDUCCION.",
+      "multa_1":"Conducir sin tener cumplida la edad reglamentaria: multa de 100 a 300 U.F.",
+      "multa_2" :"Menores de 18 años que conduzcan ciclomotores en zonas céntricas, de gran concentración de vehículos o vías rápidas: multa de 50 a 100 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Si el número de ocupantes del vehiculo es superior a la capacidad para la que fue construido es motivo de multa.",
       "id": 42,
@@ -587,7 +792,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PASAJEROS."
+      "title": "PASAJEROS.",
+      "multa_1":"Numero superior a la capacidad del vehiculo: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "La organizacion o participacion de competencias no autorizadas en la via publica es motivo de multa. Tambien puede ser sancionada con el arresto del conductor.",
       "id": 43,
@@ -601,7 +811,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PICADAS"
+      "title": "PICADAS",
+      "multa_1":"Organizacion o participacion: multa de 300 a 1000 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "2 años para faltas leves y 5 años para faltas graves y sanciones.",
       "id": 44,
@@ -615,7 +830,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PRESCRIPCION"
+      "title": "PRESCRIPCION",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No ceder el paso en las encrucijadas al vehiculo que cruza desde su derecha es motivo de multa.",
       "id": 45,
@@ -629,7 +849,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PRIORIDAD DE PASO"
+      "title": "PRIORIDAD DE PASO",
+      "multa_1":"No ceder el paso: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No respetar la prioridad normativa es motivo de multa. Entiendase por prioridad normativa: no respetar las indicaciones de la autoridad de comprobación o aplicación, las señales del tránsito y las normas legales, en ese orden de prioridad,",
       "id": 46,
@@ -643,7 +868,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PRIORIDAD NORMATIVA"
+      "title": "PRIORIDAD NORMATIVA",
+      "multa_1":"No respetar la prioridad: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No respetar la prioridad de los peatones en las sendas peatonales o zonas peligrosas, es motivo de multa.",
       "id": 47,
@@ -657,7 +887,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "PEATONES"
+      "title": "PEATONES",
+      "multa_1":"No respetar la prioridad: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa.",
       "id": 48,
@@ -671,7 +906,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "RETOMAR EN U."
+      "title": "RETOMAR EN U.",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No respetar la señalización y las prioridades es motivo de multa. Recordar: tiene prioridad de paso el que circula por la rotonda sobre el que intenta ingresar debiendo cederla al que egresa.",
       "id": 49,
@@ -685,7 +925,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "ROTONDAS."
+      "title": "ROTONDAS.",
+      "multa_1":"No respetar la señalización y las prioridades: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 50,
@@ -699,7 +944,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "SEMAFOROS."
+      "title": "SEMAFOROS.",
+      "multa_1":"No respetar las indicaciones: multa de 100 a 300 U.F.",
+      "multa_2" :"No detenerse con luz roja: multa de 150 a 500 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 51,
@@ -713,7 +963,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "SISTEMAS DE SEGURIDAD."
+      "title": "SISTEMAS DE SEGURIDAD.",
+      "multa_1":"No contar el vehículo condiciones mínimas de seguridad: multa de 5.000 a 20.000 U.F.",
+      "multa_2" :"No poseer  los sistemas de seguridad originales en buen estado de funcionamiento: multa de 150 a 500 U.F.",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 52,
@@ -727,7 +982,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "SOBREPASO."
+      "title": "SOBREPASO.",
+      "multa_1":"No constatar que a su izquierda la vía esté libre: multa de 100 a 300 U.F.",
+      "multa_2" :"Sobrepasar sin tener la visibilidad suficiente o en lugares prohibidos: multa de 200 a 1.000 U.F.",
+      "multa_3":"Sobrepasar sin advertirlo mediante señales: multa de 150 a 500 U.F.",
+      "multa_4" :"No sobrepasar rápidamente, sin interferir la marcha del vehículo sobrepasado o sin el indicador de giro: multa de 150 a 500 U.F. ",
+      "multa_5" :"Para el vehículo que es sobrepasado si no cumple sus obligaciones legales: multa de 150 a 500 U.F."
     },{
       "detail": "No advertir mediante luz de giro la intencion de cambiar de carril o estorbar la fluidez del transito circulando a menor velocidad que la permitida es motivo de multa. Recordar que la advertencia sobre cambio de carril mediante luz de giro debe realizarse con una antelacion de 5 segundos.",
       "id": 53,
@@ -741,7 +1001,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "VIAS MULTICARRILES."
+      "title": "VIAS MULTICARRILES.",
+      "multa_1":"No ajustarse a las reglas de circulacion: multa de 150 a 500 U.F. ",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "No ceder el paso a los vehículos de servicio público de urgencia en cumplimiento de su misión, es motivo de multa.",
       "id": 54,
@@ -755,7 +1020,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "VEHICULOS DE SERVICIOS PUBLICOS DE URGENCIA."
+      "title": "VEHICULOS DE SERVICIOS PUBLICOS DE URGENCIA.",
+      "multa_1":"No ceder el paso: multa de 150 a 500 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 55,
@@ -769,7 +1039,12 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "VELOCIDAD."
+      "title": "VELOCIDAD.",
+      "multa_1":"No respetar los limites de velocidad: multa de 150 a 1.000 U.F.",
+      "multa_2" :"Circular a una velocidad que no corresponda a las condiciones del estado del vehículo, carga, visibilidad, condiciones de la vía, del tiempo y densidad del tránsito y no permita contar con el pleno domino del vehículo o entorpezculación: multa de 100 a 300 U.F. ",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
       "id": 56,
@@ -783,10 +1058,13 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "VTV."
+      "title": "VTV.",
+      "multa_1":"Multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
     }
-
-
   ],
   "multas": [
     {
