@@ -104,7 +104,7 @@ angular.module('starter', ['ionic'])
       var currentPlatform = ionic.Platform.platform();
       var currentPlatformVersion = ionic.Platform.version();
 
-      ionic.Platform.exitApp(); // stops the app
+     // ionic.Platform.exitApp(); // stops the app
       $scope.isAndroid = isAndroid;  
       $scope.multas = data.multas;
 
@@ -139,7 +139,7 @@ angular.module('starter', ['ionic'])
       var currentPlatform = ionic.Platform.platform();
       var currentPlatformVersion = ionic.Platform.version();
 
-      ionic.Platform.exitApp(); // stops the app
+      //ionic.Platform.exitApp(); // stops the app
       $scope.isAndroid = isAndroid;
 
       $scope.onItemDelete = function(item) {

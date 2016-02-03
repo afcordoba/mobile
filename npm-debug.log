@@ -1,0 +1,65 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '-',
+1 verbose cli   'g',
+1 verbose cli   'cordova' ]
+2 info using npm@3.3.12
+3 info using node@v5.5.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData -
+8 silly fetchPackageMetaData g
+9 silly fetchPackageMetaData cordova
+10 silly fetchOtherPackageData -
+11 silly cache add args [ '-', null ]
+12 verbose cache add spec -
+13 silly fetchNamedPackageData g
+14 silly mapToRegistry name g
+15 silly mapToRegistry using default registry
+16 silly mapToRegistry registry https://registry.npmjs.org/
+17 silly mapToRegistry uri https://registry.npmjs.org/g
+18 silly fetchNamedPackageData cordova
+19 silly mapToRegistry name cordova
+20 silly mapToRegistry using default registry
+21 silly mapToRegistry registry https://registry.npmjs.org/
+22 silly mapToRegistry uri https://registry.npmjs.org/cordova
+23 silly cache add parsed spec Result {
+23 silly cache add   raw: '-',
+23 silly cache add   scope: null,
+23 silly cache add   name: null,
+23 silly cache add   rawSpec: '-',
+23 silly cache add   spec: 'C:\\development\\mobile\\-',
+23 silly cache add   type: 'local' }
+24 error addLocal Could not install C:\development\mobile\-
+25 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open 'C:\development\mobile\-'
+25 silly fetchPackageMetaData     at Error (native)
+25 silly fetchPackageMetaData  error for - { [Error: ENOENT: no such file or directory, open 'C:\development\mobile\-']
+25 silly fetchPackageMetaData   errno: -4058,
+25 silly fetchPackageMetaData   code: 'ENOENT',
+25 silly fetchPackageMetaData   syscall: 'open',
+25 silly fetchPackageMetaData   path: 'C:\\development\\mobile\\-' }
+26 verbose get https://registry.npmjs.org/g not expired, no request
+27 verbose get https://registry.npmjs.org/cordova not expired, no request
+28 silly rollbackFailedOptional Starting
+29 silly rollbackFailedOptional Finishing
+30 silly runTopLevelLifecycles Starting
+31 silly runTopLevelLifecycles Finishing
+32 silly install printInstalled
+33 verbose stack Error: ENOENT: no such file or directory, open 'C:\development\mobile\-'
+33 verbose stack     at Error (native)
+34 verbose cwd C:\development\mobile
+35 error Windows_NT 6.1.7601
+36 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "-" "g" "cordova"
+37 error node v5.5.0
+38 error npm  v3.3.12
+39 error path C:\development\mobile\-
+40 error code ENOENT
+41 error errno -4058
+42 error syscall open
+43 error enoent ENOENT: no such file or directory, open 'C:\development\mobile\-'
+43 error enoent This is most likely not a problem with npm itself
+43 error enoent and is related to npm not being able to find a file.
+44 verbose exit [ -4058, true ]
