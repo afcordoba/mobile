@@ -15,7 +15,7 @@ angular.module('starter', ['ionic'])
     if (window.StatusBar) {
       StatusBar.styleDefault();
     }
-  
+
   });
 })
 
@@ -75,6 +75,14 @@ angular.module('starter', ['ionic'])
         }
       }
     })
+    .state('tabs.info', {
+      url: '/informacion',
+      views: {
+        'info-tab': {
+          templateUrl: 'templates/informacion.html'
+        }
+      }
+    })
     .state('tabs.contacto', {
       url: '/contacto',
       views: {
@@ -87,7 +95,7 @@ angular.module('starter', ['ionic'])
   $urlRouterProvider.otherwise('/tab/home');
 })
 
-  
+
 
 .controller('MultasController', ['$scope', '$http', '$state',
     function($scope, $http, $state) {
@@ -105,7 +113,7 @@ angular.module('starter', ['ionic'])
       var currentPlatformVersion = ionic.Platform.version();
 
      // ionic.Platform.exitApp(); // stops the app
-      $scope.isAndroid = isAndroid;  
+      $scope.isAndroid = isAndroid;
       $scope.multas = data.multas;
 
       $scope.doRefresh = function() {
@@ -163,4 +171,3 @@ angular.module('starter', ['ionic'])
       };
     });
     }]);
-

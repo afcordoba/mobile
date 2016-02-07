@@ -4,8 +4,8 @@
       "detail": "Es motivo de multa:",
       "id": 1,
       "subdetail": "Negarse a realizar la prueba de alcoholemia (y presuncion de alcoholemia positiva)",
-      "subdetail_1": "Conducir en estado de intoxicación alcohólica. Se debe detectar 0,5 g de alcohol en litro de sangre mediante el uso de alcoholimetros u otros mecanismos de control homologados. Ante el resultado positivo se debe requerir la intervencion de la autoridad sanitaria pertinente. El interesado puede requerir repetir las pruebas a efectos de contraste.",
-      "subdetail_2": "Conducir en estado de intoxicación alcohólica tambien es motivo de arresto del conductor.",
+      "subdetail_1": "Conducir en estado de intoxicación alcohólica. Se debe detectar 0,5 g de alcohol en litro de sangre mediante el uso de alcoholimetros u otros mecanismos de control homologados. Ante el resultado positivo se debe requerir la intervencion de la autoridad sanitaria pertinente. El interesado puede requerir repetir las pruebas a efectos de contraste. Tambien es motivo de arresto del conductor.",
+      "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -41,9 +41,9 @@
     },{
       "detail": "Es motivo de multa: ",
       "id": 3,
-      "subdetail": " Adelantarse por la derecha,Adelantarse en curvas encrucijadas y otras zonas peligrosas.",
-      "subdetail_1": " Recordar que la doble linea amarilla (señal vial horizontal) indica la prohibicion de adelantar a otro vehiculo",
-      "subdetail_2": "",
+      "subdetail": " Adelantarse por la derecha,",
+      "subdetail_1": "Adelantarse en curvas encrucijadas y otras zonas peligrosas. ",
+      "subdetail_2": "Recordar que la doble linea amarilla (señal vial horizontal) indica la prohibicion de adelantar a otro vehiculo.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -212,9 +212,9 @@
     },{
       "detail": "Es motivo de multa:",
       "id": 12,
-      "subdetail": "Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o sea insalubre en vehículos o continentes no destinados a ese fin",
-      "subdetail_1": "Transportar cualquier carga o elemento que perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte luces o indicadores o sobresalga de los límites permitidos",
-      "subdetail_2": "Se considera comprendida en esta prohibicion el transporte de bicicletas cuando sobresalga los limites permitidos.",
+      "subdetail": "Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o sea insalubre en vehículos o continentes no destinados a ese fin.",
+      "subdetail_1": "Transportar cualquier carga o elemento que perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte luces o indicadores o sobresalga de los límites permitidos.",
+      "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -362,14 +362,14 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Es motivo de multa:",
+      "detail": "",
       "id": 20,
-      "subdetail": "Circular estando legalmente inhabilitado. Tambien es motivo de retencion de licencia,",
-      "subdetail_1": "Circular sin haber sido habilitado,",
-      "subdetail_2": "Circular teniendo suspendida la habilitacion. Tambien es motivo de retencion de licencia,",
-      "subdetail_3": "Circular con habilitacion vencida,",
-      "subdetail_4": "Circular sin portar licencia estando habilitado,",
-      "subdetail_5": "Circular con licencia caduca debido a no haber denunciado la modificación de datos dentro de los 90 días de producida dicha modificación es motivo de multa. Tambien es motivo de retencion de licencia.",
+      "subdetail": "Cuando estuvieren vencidas.",
+      "subdetail_1": "Cuando hubieren caducado por cambio de datos no denunciados oportunamente.",
+      "subdetail_2": "Cuando no se ajusten a los límites de edad correspondientes.",
+      "subdetail_3": "Cuando hayan sido adulteradas o surja una evidente violación a los requisitos de ley.",
+      "subdetail_4": "Cuando sea evidente la disminución de las condiciones psicofísicas del titular.",
+      "subdetail_5": "Cuando el titular se encuentre inhabilitado o suspendido para conducir.",
       "subdetail_6": "",
       "subdetail_7": "",
       "subdetail_8": "",
@@ -381,12 +381,50 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Es motivo de multa:",
+      "detail": "",
       "id": 21,
+      "subdetail": "Cuando sean sorprendidos in-fraganti en estado de intoxicación alcohólica, estupefacientes u otra sustancia. Requiere comprobante médico o de dispositivo aprobado que acredite tal estado. Esta retención no deberá exceder de 12 hs.",
+      "subdetail_1": "Por pretender fugar habiendo participado en un accidente por el tiempo necesario para labrar las actuaciones policiales correspondientes. No puede exceder 12 hs.",
+      "subdetail_2": "Por conducir un automotor sin habilitado o con la habilitación suspendida.",
+      "subdetail_3": "Por participar u organizar, en la vía pública, competencias no autorizadas de destreza o velocidad con automotores.",
+      "subdetail_4": "Por ingresar a una encrucijada con semáforo en luz roja, a partir de la tercera reincidencia.",
+      "subdetail_5": "Por cruzar las vías del tren sin tener el paso expedito.",
+      "subdetail_6": "",
+      "subdetail_7": "",
+      "subdetail_8": "",
+      "name": "icono_auto",
+      "title": "¿Cuándo corresponde RETENER o ARRESTAR AL CONDUCTOR? ",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
+    },{
+      "detail": "",
+      "id": 22,
+      "subdetail": "Cuando no cumplan con las exigencias de seguridad reglamentaria. La retención durará el tiempo necesario para labrar el acta excepto si el requisito faltante es tal que pone en peligro cierto la seguridad del tránsito. En tal caso la retención durará hasta que se repare el defecto.",
+      "subdetail_1": "Si son conducidos por personas no habilitadas para el tipo de vehículos que conducen, inhabilitadas, con habilitación suspendida o que no cumplan con las edades reglamentarias para cada tipo de vehículo. Luego de labrada el acta, el vehículo podrá ser liberado bajo la conducción de otra persona habilitada, caso contrario el vehículo será removido y remitido a los depósitos que indique la autoridad de comprobación.",
+      "subdetail_2": "Cuando se comprobare que estuviere o circulare excedido en peso o en sus dimensiones.",
+      "subdetail_3": "Cuando estén prestando un servicio de transporte de pasajeros o de carga, careciendo del permiso, autorización, concesión, habilitación o inscripción exigidos o en excesos de los mismos.",
+      "subdetail_4": "Cuando estén mal estacionados.",
+      "subdetail_5": "Que se excedieran la cantidad de ocupantes. En dicho caso, luego de labrada el acta, el vehículo podrá circular, siempre y cuando desciendan del mismo las personas que sean necesarias para adecuar el número de ocupantes a la capacidad para la cual fue construido.",
+      "subdetail_6": "",
+      "subdetail_7": "",
+      "subdetail_8": "",
+      "name": "icono_auto",
+      "title": "¿Cuándo corresponde RETENER EL VEHÍCULO?",
+      "multa_1":"",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
+    },{
+      "detail": "Es motivo de multa:",
+      "id": 23,
       "subdetail": "Su falta,",
       "subdetail_1": "Circular con placas de identificacion de dominio no correspondientes,",
       "subdetail_2": "Circular faltando la placa de identificacion de dominio delantera o por no tenerla en lugar reglamentario,",
-      "subdetail_3": "Circular faltando la placa de identificacion de dominio trasera o por no tenerla en lugar reglamentaria.",
+      "subdetail_3": "Circular faltando la placa de identificacion de dominio trasera o por no tenerla en lugar reglamentario.",
       "subdetail_4": "",
       "subdetail_5": "",
       "subdetail_6": "",
@@ -401,7 +439,7 @@
       "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa.",
-      "id": 22,
+      "id": 24,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -420,7 +458,7 @@
       "multa_5" :""
     },{
       "detail": "La conducción, en rutas, autopistas y semiautopistas, a una distancia del vehículo que lo precede menor a 2 SEGUNDOS es motivo de multa.",
-      "id": 23,
+      "id": 25,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -439,7 +477,7 @@
       "multa_5" :""
     },{
       "detail": "Su uso es obligatorio hasta los 4 años. El incumplimiento de esta disposicion es motivo de multa.",
-      "id": 24,
+      "id": 26,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -457,14 +495,14 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "DNI, licencia de conducir, cedula verde (o cedula azul en el supuesto que el vehiculo no sea de su propiedad), constancia de VTV o RTO, comprobante de poliza de seguro. No exhibirla es motivo de multa.",
-      "id": 25,
-      "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
+      "detail": "No exhibirla es motivo de multa.",
+      "id": 27,
+      "subdetail": "DNI",
+      "subdetail_1": "Licencia de conducir.",
+      "subdetail_2": "Cédula verde (o cedula azul en el supuesto que el vehiculo no sea de su propiedad).",
+      "subdetail_3": "Constancia de VTV o RTO vigente.",
+      "subdetail_4": "Comprobante de poliza de seguro.",
+      "subdetail_5": "Comprobante de pago del impuesto a la radicación del vehículo(PATENTE)",
       "subdetail_6": "",
       "subdetail_7": "",
       "subdetail_8": "",
@@ -477,7 +515,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir bajo los efectos de estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales para la conduccion segura, es motivo de multa.",
-      "id": 26,
+      "id": 28,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -496,7 +534,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir utilizando pantallas o monitores de video VHF, DVD o similar en el interior del habitaculo del conductor es motivo de multa.",
-      "id": 27,
+      "id": 29,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -515,26 +553,26 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 28,
+      "id": 30,
       "subdetail": "No estacionar, en zona urbana, paralelamente al cordón (excepto que la autoridad local establezca otras formas),",
       "subdetail_1": "Estacionar, en zona urbana, donde se pueda afectar la seguridad, visibilidad o fluidez del tránsito o se oculte la señalización,",
       "subdetail_2": "Estacionar, en zona urbana, en las esquinas, entre su vértice ideal y la línea imaginaria que resulte de prolongar la ochava y en cualquier lugar peligroso,",
       "subdetail_3": "Estacionar, en zona urbana, sobre la senda para peatones o bicicletas, aceras, rieles, sobre la calzada, y en los 10 metros anteriores y posteriores a la parada del transporte de pasajeros,",
-      "subdetail_4": "Estacionar, en zona urbana, frente a la puerta de hospitales, escuelas y otros servicios públicos, hasta 10 metros a cada lado de ellos, salvo los vehículos relacionados a la función del establecimiento",
+      "subdetail_4": "Estacionar, en zona urbana, frente a la puerta de hospitales, escuelas y otros servicios públicos, hasta 10 metros a cada lado de ellos, salvo los vehículos relacionados a la función del establecimiento,",
       "subdetail_5": "Estacionar, en zona urbana, frente a la salida de cines, teatros y similares, durante su funcionamiento,",
       "subdetail_6": "Estacionar, en zona urbana, en los accesos de garages en uso y de estacionamiento con ingreso habitual de vehículos, siempre que tengan la señal pertinente, con el respectivo horario de prohibición o restricción,",
-      "subdetail_7": "Estacionar, en zona urbana, por un periodo mayor de 5 días o del lapso que fije la autoridad local",
-      "subdetail_8": "Estacionar, en zona urbana, en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento",
+      "subdetail_7": "Estacionar, en zona urbana, por un periodo mayor de 5 días o del lapso que fije la autoridad local,",
+      "subdetail_8": "Estacionar, en zona urbana, en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento.",
       "name": "icono_auto",
       "title": "ESTACIONAMIENTO",
       "multa_1":"No estacionar paralelamente al cordón: multa de 50 a 100 U.F.",
       "multa_2" :"Estacionar donde se pueda afectar la seguridad, visibilidad o fluidez del tránsito o se oculte la señalización: multa de 100 a 300 U.F. ",
-      "multa_3":"Estacionar en las esquinas, sobre la senda para peatones o bicicletas, aceras, rieles, sobre la calzada (,y en los 10 metros anteriores y posteriores a la parada del transporte de pasajeros), frente a la puerta de hospitales, escuelas y otros servicios públicos (hasta 10 metros a cada lado de ellos), frente a la salida de cines, teatros y similares, durante su funcionamiento, en los accesos de garages en uso y de estacionamiento con ingreso habitual de vehículos o en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento: multa de 50 a 100 U.F.  ",
+      "multa_3":"Estacionar en las esquinas, sobre la senda para peatones o bicicletas, aceras, rieles, sobre la calzada (y en los 10 metros anteriores y posteriores a la parada del transporte de pasajeros), frente a la puerta de hospitales, escuelas y otros servicios públicos (hasta 10 metros a cada lado de ellos), frente a la salida de cines, teatros y similares, durante su funcionamiento, en los accesos de garages en uso y de estacionamiento con ingreso habitual de vehículos o en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento: multa de 50 a 100 U.F.  ",
       "multa_4" :"",
       "multa_5" :""
     },{
       "detail": "Para que tengan plena validez deben cumplir ciertos requisitos técnicos y legales, aprobados y homologados por el INTI. La confección del acta y su notificación deben cumplir ciertas formalidades. Cualquier defecto técnico o legal inhabilita la infracción.",
-      "id": 29,
+      "id": 31,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -553,7 +591,7 @@
       "multa_5" :""
     },{
       "detail": "Fugar o negarse a suministrar documentación o información quienes estén obligados a hacerlo es motivo de multa. Fugar habiendo participado de un accidente de transito es motivo de retencion del conductor. Fugar habiendo participado de un accidente de transito es motivo de retencion del conductor.",
-      "id": 30,
+      "id": 32,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -572,7 +610,7 @@
       "multa_5" :""
     },{
       "detail": "No advertir la maniobra con suficiente antelación, mediante la señal luminosa correspondiente es motivo de multa.",
-      "id": 31,
+      "id": 33,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -591,7 +629,7 @@
       "multa_5" :""
     },{
       "detail": "Girar a la izquierda en vías de doble mano reguladas por semáforo sin señal que lo permita es motivo de multa.",
-      "id": 32,
+      "id": 34,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -602,7 +640,7 @@
       "subdetail_7": "",
       "subdetail_8": "",
       "name": "icono_auto",
-      "title": "GIRO A LA IZQUIERDA",
+      "title": "AVENIDA-GIRO",
       "multa_1":"En vías de doble mano semaforizadas: multa de 100 a 300 U.F.",
       "multa_2" :"",
       "multa_3":"",
@@ -610,7 +648,7 @@
       "multa_5" :""
     },{
       "detail": "La falta de recibo no puede ser motivo de multa.",
-      "id": 33,
+      "id": 35,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -629,7 +667,7 @@
       "multa_5" :""
     },{
       "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa. Debe estar construido segun normas IRAM, ubicarse dentro del habitaculo del vehiculo al alcance del conductor (excepto los mayores a 1 kg). El soporte debe impedir el desprendimiento, debe poder ser liberado facilmente para su empleo y ubicarse en un lugar que no cree riesgos.",
-      "id": 34,
+      "id": 36,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -648,16 +686,16 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa: ",
-      "id": 35,
-      "subdetail": "Circular estando legalmente inhabilitado. Tambien es motivo de retencion de licencia, Circular sin haber sido habilitado,* Circular teniendo suspendida la habilitacion. Tambien es motivo de retencion de licencia,* Circular con habilitacion vencida,* Circular sin portar licencia estando habilitado,* Circular con licencia caduca debido a no haber denunciado la modificación de datos dentro de los 90 días de producida dicha modificación es motivo de multa. Tambien es motivo de retencion de licencia. Se considera que la licencia ha caducado en el supuesto en que el conductor ha realizado cambio de domicilio y no ha realizado la denuncia respectiva en la Licencia Nacional de Conducir.",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
-      "subdetail_7": "",
-      "subdetail_8": "",
+      "id": 37,
+      "subdetail": "Circular estando legalmente inhabilitado. Tambien es motivo de retencion de licencia.",
+      "subdetail_1": "Tambien es motivo de retencion de licencia,",
+      "subdetail_2": "Circular sin haber sido habilitado,",
+      "subdetail_3": "Circular teniendo suspendida la habilitacion.",
+      "subdetail_4": "Tambien es motivo de retencion de licencia,",
+      "subdetail_5": "Circular con habilitacion vencida,",
+      "subdetail_6": "Circular sin portar licencia estando habilitado,",
+      "subdetail_7": "Circular con licencia caduca debido a no haber denunciado la modificación de datos dentro de los 90 días de producida dicha modificación es motivo de multa.",
+      "subdetail_8": "Se considera que la licencia ha caducado en el supuesto en que el conductor ha realizado cambio de domicilio y no ha realizado la denuncia respectiva en la Licencia Nacional de Conducir.",
       "name": "icono_auto",
       "title": "LICENCIA DE CONDUCIR.",
       "multa_1":"Circular estando legalmente inhabilitado: multa de 300 a 1000 U.F.",
@@ -666,29 +704,10 @@
       "multa_4" :"Habilitacion vencida: multa de 100 a 300 U.F.,Licencia caduca: multa de 50 a 100 U.F.   ",
       "multa_5" :"No portar licencia estando habilitado: multa de 50 a 100 U.F."
     },{
-      "detail": "Circular en incumplimiento de las normas de transferencia del vehículo es motivo de multa.",
-      "id": 36,
-      "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
-      "subdetail_7": "",
-      "subdetail_8": "",
-      "name": "icono_auto",
-      "title": "TRANSFERENCIA.",
-      "multa_1":"",
-      "multa_2" :"",
-      "multa_3":"",
-      "multa_4" :"",
-      "multa_5" :""
-    },{
-      "detail": "Es motivo de multa: Circular sin portar el comprobante de la poliza de seguro. Circular sin tener cobertura de seguro obligatorio.",
-      "id": 37,
-      "subdetail_1": "",
-      "subdetail_2": "",
+      "detail": "Es motivo de multa:",
+      "id": 38,
+      "subdetail_1": "Circular sin portar el comprobante de la poliza de seguro.",
+      "subdetail_2": "Circular sin tener cobertura de seguro obligatorio.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -705,7 +724,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 38,
+      "id": 39,
       "subdetail": "No cumplir las reglas previstas para el uso de luces",
       "subdetail_1": "Circular sin contar el vehiculo sin el sistema de iluminacion correspondiente y las luces adicionales exigidas.",
       "subdetail_2": "",
@@ -724,7 +743,7 @@
       "multa_5" :""
     },{
       "detail": "Circular marcha atrás (excepto para estacionar, egresar de un garage o de una calle sin salida), es motivo de multa.",
-      "id": 39,
+      "id": 40,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -743,7 +762,7 @@
       "multa_5" :""
     },{
       "detail": "Hasta los 10 años es obligatorio que los niños viajen en el asiento trasero con el cinturon de seguridad. Su incumplimiento es motivo de multa.",
-      "id": 40,
+      "id": 41,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -762,7 +781,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir sin tener cumplida la edad reglamentaria es motivo de multa. Los menores de 18 años no pueden conducir ciclomotores en zonas céntricas, de gran concentración de vehículos o vías rápidas.",
-      "id": 41,
+      "id": 42,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -781,7 +800,7 @@
       "multa_5" :""
     },{
       "detail": "Si el número de ocupantes del vehiculo es superior a la capacidad para la que fue construido es motivo de multa.",
-      "id": 42,
+      "id": 43,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -800,7 +819,7 @@
       "multa_5" :""
     },{
       "detail": "La organizacion o participacion de competencias no autorizadas en la via publica es motivo de multa. Tambien puede ser sancionada con el arresto del conductor.",
-      "id": 43,
+      "id": 44,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -819,7 +838,7 @@
       "multa_5" :""
     },{
       "detail": "2 años para faltas leves y 5 años para faltas graves y sanciones.",
-      "id": 44,
+      "id": 45,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -838,7 +857,7 @@
       "multa_5" :""
     },{
       "detail": "No ceder el paso en las encrucijadas al vehiculo que cruza desde su derecha es motivo de multa.",
-      "id": 45,
+      "id": 46,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -857,7 +876,7 @@
       "multa_5" :""
     },{
       "detail": "No respetar la prioridad normativa es motivo de multa. Entiendase por prioridad normativa: no respetar las indicaciones de la autoridad de comprobación o aplicación, las señales del tránsito y las normas legales, en ese orden de prioridad,",
-      "id": 46,
+      "id": 47,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -876,7 +895,7 @@
       "multa_5" :""
     },{
       "detail": "No respetar la prioridad de los peatones en las sendas peatonales o zonas peligrosas, es motivo de multa.",
-      "id": 47,
+      "id": 48,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -895,7 +914,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa.",
-      "id": 48,
+      "id": 49,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -907,14 +926,14 @@
       "subdetail_8": "",
       "name": "icono_auto",
       "title": "RETOMAR EN U.",
-      "multa_1":"",
+      "multa_1":"Doblar en u - multa de 100 a 300 U.F.",
       "multa_2" :"",
       "multa_3":"",
       "multa_4" :"",
       "multa_5" :""
     },{
       "detail": "No respetar la señalización y las prioridades es motivo de multa. Recordar: tiene prioridad de paso el que circula por la rotonda sobre el que intenta ingresar debiendo cederla al que egresa.",
-      "id": 49,
+      "id": 50,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -933,7 +952,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 50,
+      "id": 51,
       "subdetail": "No respetar las indicaciones de las luces de los semáforos.",
       "subdetail_1": "No detenerse con luz roja (la cual deberá ser antes de la senda peatonal o de la línea marcada a tal efecto). A la tercer reincidencia es motivo de retencion del conductor.",
       "subdetail_2": "Haber iniciado el cruce, aún con luz verde, sin tener espacio suficiente del otro lado de la encrucijada.",
@@ -952,7 +971,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 51,
+      "id": 52,
       "subdetail": "Circular sin contar el vehículo condiciones mínimas de seguridad. Tambien puede ser motivo de retencion del vehiculo",
       "subdetail_1": "Circular sin poseer el vehiculo los sistemas de seguridad originales en buen estado de funcionamiento.",
       "subdetail_2": "",
@@ -971,7 +990,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 52,
+      "id": 53,
       "subdetail": "Sobrepasar otro vehiculo sin constatar previamente que a su izquierda la vía esté libre en una distancia suficiente para evitar todo riesgo, y que ningún conductor que le sigue lo esté a su vez sobrepasando.",
       "subdetail_1": "Sobrepasar sin tener la visibilidad suficiente y/o iniciar la maniobra si se aproxima a una encrucijada, curva, puente, cima de la vía o lugar peligroso.",
       "subdetail_2": "Sobrepasar sin advertir al que le precede su intención de sobrepasarlo por medio de destellos de las luces frontales o la bocina en zona rural y sin utilizar el indicador de giro izquierdo hasta concluir su desplazamiento lateral.",
@@ -990,7 +1009,7 @@
       "multa_5" :"Para el vehículo que es sobrepasado si no cumple sus obligaciones legales: multa de 150 a 500 U.F."
     },{
       "detail": "No advertir mediante luz de giro la intencion de cambiar de carril o estorbar la fluidez del transito circulando a menor velocidad que la permitida es motivo de multa. Recordar que la advertencia sobre cambio de carril mediante luz de giro debe realizarse con una antelacion de 5 segundos.",
-      "id": 53,
+      "id": 54,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1009,7 +1028,7 @@
       "multa_5" :""
     },{
       "detail": "No ceder el paso a los vehículos de servicio público de urgencia en cumplimiento de su misión, es motivo de multa.",
-      "id": 54,
+      "id": 55,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1028,7 +1047,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 55,
+      "id": 56,
       "subdetail": "No respetar los limites de velocidad maxima y minima establecidos en la ley (existe un margen de tolerancia de hasta 10%)",
       "subdetail_1": "Circular a una velocidad que no corresponda a las condiciones del estado del vehículo, carga, visibilidad, condiciones de la vía, del tiempo y densidad del tránsito y no permita contar con el pleno domino del vehículo o entorpezca la circulación,",
       "subdetail_2": "",
@@ -1047,7 +1066,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 56,
+      "id": 57,
       "subdetail": "Circular sin haber realizado la revisión técnica periódica obligatoria.",
       "subdetail_1": "Circular sin la documentación que acredite haber realizado y aprobado la revisión técnica periódica obligatoria.",
       "subdetail_2": "",
@@ -1393,7 +1412,7 @@
       "name": "icono_policia"
     },{
       "id": "24",
-      "title": "GIRO A LA IZQUIERDA",
+      "title": "AVENIDA-GIRO",
       "detail": "En vías de doble mano semaforizadas: multa de 100 a 300 U.F.",
       "subdetail": "",
       "subdetail_1": "",
@@ -1518,9 +1537,9 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "33",
-      "title": "PEATONES",
-      "detail": "No respetar la prioridad: multa de 150 a 500 U.F.",
+      "id": "34",
+      "title": "RETOMAR EN U.",
+      "detail": "Multa de 100 a 300 U.F.",
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1532,7 +1551,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "34",
+      "id": "35",
       "title": "ROTONDAS",
       "detail": "No respetar la señalización y las prioridades: multa de 100 a 300 U.F.",
       "subdetail": "",
@@ -1546,7 +1565,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "35",
+      "id": "36",
       "title": "SEMAFOROS",
       "detail": "No respetar las indicaciones: multa de 100 a 300 U.F.",
       "subdetail": "No detenerse con luz roja: multa de 150 a 500 U.F.",
@@ -1560,7 +1579,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "36",
+      "id": "37",
       "title": "SISTEMAS DE SEGURIDAD",
       "detail": "No contar el vehículo condiciones mínimas de seguridad: multa de 5.000 a 20.000 U.F.",
       "subdetail": "No poseer  los sistemas de seguridad originales en buen estado de funcionamiento: multa de 150 a 500 U.F.",
@@ -1574,7 +1593,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "37",
+      "id": "38",
       "title": "SOBREPASO",
       "detail": "No constatar que a su izquierda la vía esté libre: multa de 100 a 300 U.F.",
       "subdetail": "Sobrepasar sin tener la visibilidad suficiente o en lugares prohibidos: multa de 200 a 1.000 U.F.",
@@ -1588,7 +1607,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "38",
+      "id": "39",
       "title": "VIAS MULTICARRILES",
       "detail": "No ajustarse a las reglas de circulacion: multa de 150 a 500 U.F.",
       "subdetail": "",
@@ -1602,7 +1621,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "39",
+      "id": "40",
       "title": "VEHICULOS DE SERVICIOS PUBLICOS DE URGENCIA",
       "detail": "No ceder el paso: multa de 150 a 500 U.F.",
       "subdetail": "",
@@ -1616,7 +1635,7 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "40",
+      "id": "41",
       "title": "VELOCIDAD",
       "detail": "No respetar los limites de velocidad: multa de 150 a 1.000 U.F.",
       "subdetail": "Circular a una velocidad que no corresponda a las condiciones del estado del vehículo, carga, visibilidad, condiciones de la vía, del tiempo y densidad del tránsito y no permita contar con el pleno domino del vehículo o entorpezculación: multa de 100 a 300 U.F.",
@@ -1630,24 +1649,10 @@
       "subdetail_8": "",
       "name": "icono_policia"
     },{
-      "id": "41",
+      "id": "42",
       "title": "VTV",
       "detail": "Multa de 100 a 300 U.F.",
       "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
-      "subdetail_7": "",
-      "subdetail_8": "",
-      "name": "icono_policia"
-    },{
-      "id": "42",
-      "title": "PEATONES",
-      "detail": "No transitar por los espacios habilitados (zona urbana o rural): multa de 50 a 100 U.F.",
-      "subdetail": "Cruzar la calzada en infraccion al semáforo peatonal: multa de 50 a 100 U.F.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
