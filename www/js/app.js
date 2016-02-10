@@ -57,6 +57,16 @@ angular.module('starter', ['ionic'])
       }
     })
 
+    .state('tabs.listcaba', {
+      url: '/listcaba',
+      views: {
+        'listcaba-tab': {
+          templateUrl: 'templates/listCaba.html',
+          controller: 'ListCabaController'
+        }
+      }
+    })
+
     .state('tabs.multa', {
       url: '/multa',
       views: {
@@ -95,39 +105,37 @@ angular.module('starter', ['ionic'])
   $urlRouterProvider.otherwise('/tab/home');
 })
 
-
-
 .controller('MultasController', ['$scope', '$http', '$state',
     function($scope, $http, $state) {
       $http.get('js/data.json').success(function(data) {
 
-      var deviceInformation = ionic.Platform.device();
+        var deviceInformation = ionic.Platform.device();
 
-      var isWebView = ionic.Platform.isWebView();
-      var isIPad = ionic.Platform.isIPad();
-      var isIOS = ionic.Platform.isIOS();
-      var isAndroid = ionic.Platform.isAndroid();
-      var isWindowsPhone = ionic.Platform.isWindowsPhone();
+        var isWebView = ionic.Platform.isWebView();
+        var isIPad = ionic.Platform.isIPad();
+        var isIOS = ionic.Platform.isIOS();
+        var isAndroid = ionic.Platform.isAndroid();
+        var isWindowsPhone = ionic.Platform.isWindowsPhone();
 
-      var currentPlatform = ionic.Platform.platform();
-      var currentPlatformVersion = ionic.Platform.version();
+        var currentPlatform = ionic.Platform.platform();
+        var currentPlatformVersion = ionic.Platform.version();
 
-     // ionic.Platform.exitApp(); // stops the app
-      $scope.isAndroid = isAndroid;
-      $scope.multas = data.multas;
+        // ionic.Platform.exitApp(); // stops the app
+        $scope.isAndroid = isAndroid;
+        $scope.multas = data.multas;
 
-      $scope.doRefresh = function() {
+        $scope.doRefresh = function() {
         $http.get('js/data.json').success(function(data) {
           $scope.multas = data.multas;
           $scope.$broadcast('scroll.refreshComplete');
         });
       };
 
-      $scope.toggleStar = function(item) {
+        $scope.toggleStar = function(item) {
         item.star = !item.star;
       };
 
-    });
+      });
     }])
 
     .controller('ListController', ['$scope', '$http', '$state',
@@ -168,6 +176,47 @@ angular.module('starter', ['ionic'])
       $scope.moveItem = function(item, fromIndex, toIndex) {
         $scope.tips.splice(fromIndex, 1);
         $scope.tips.splice(toIndex, 0, item);
+      };
+    });
+    }])
+
+.controller('ListCabaController', ['$scope', '$http', '$state',
+    function($scope, $http, $state) {
+      $http.get('js/data.json').success(function(data) {
+      $scope.caba = data.caba;
+      $scope.whichartist = $state.params.aId;
+      $scope.data = {showDelete: false, showReorder: false};
+      var deviceInformation = ionic.Platform.device();
+
+      var isWebView = ionic.Platform.isWebView();
+      var isIPad = ionic.Platform.isIPad();
+      var isIOS = ionic.Platform.isIOS();
+      var isAndroid = ionic.Platform.isAndroid();
+      var isWindowsPhone = ionic.Platform.isWindowsPhone();
+
+      var currentPlatform = ionic.Platform.platform();
+      var currentPlatformVersion = ionic.Platform.version();
+
+      $scope.isAndroid = isAndroid;
+
+      $scope.onItemDelete = function(item) {
+        $scope.caba.splice($scope.caba.indexOf(item), 1);
+      };
+
+      $scope.doRefresh = function() {
+        $http.get('js/data.json').success(function(data) {
+          $scope.caba = data;
+          $scope.$broadcast('scroll.refreshComplete');
+        });
+      };
+
+      $scope.toggleStar = function(item) {
+        item.star = !item.star;
+      };
+
+      $scope.moveItem = function(item, fromIndex, toIndex) {
+        $scope.caba.splice(fromIndex, 1);
+        $scope.caba.splice(toIndex, 0, item);
       };
     });
     }]);

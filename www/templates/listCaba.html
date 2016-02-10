@@ -1,4 +1,4 @@
-<ion-view view-title="+ Control Vial">
+<ion-view view-title="+ Control Vial C.A.B.A.">
 
   <ion-nav-buttons side="primary">
     <button class="button button-icon ion-navicon" ng-click="data.showReorder = !data.showReorder; data.showDelete = false;">
@@ -16,13 +16,13 @@
   <ion-refresher >
   </ion-refresher>
   <ion-list  show-reorder="data.showReorder">
-    <ion-item ng-class="{'star': item.star}" ng-repeat='item in tips  | filter: query ' class="item-thumbnail-left" href="#/tab/list/{{item.id}}">
-      <img ng-src="img/{{item.name}}_tn.jpg" alt="{{ item.name }} Photo">
-      <h3>{{item.title}}</h3>
+    <ion-item ng-class="{'star': item.star}" ng-repeat='item in caba  | filter: query ' class="item-thumbnail-left item-text-wrap" href="#/tab/listcaba/{{item.id}}">
+      
+      <img ng-src="img/{{item.name}}_tn.jpg" alt="{{ item.name }}" width="22" height="22">
       <p>
-           <font size="1.8rem">{{item.detail | limitTo: 100}} {{ item.detail.length > 150 ? '…' : '' }}</font>
+      <h3>{{item.title}}</h3>
+            <font size="1.8rem">{{item.detail | limitTo: 100}} {{ item.detail.length > 150 ? '…' : '' }}</font>
            <br><font color="blue" size="1.8rem">Ampliar...</font>  
-
       </p>
       <button class="button button-clear icon ion-star button-assertive" ng-click="toggleStar(item)" ng-show="item.star"></button>
       <ion-option-button class="button-dark"
