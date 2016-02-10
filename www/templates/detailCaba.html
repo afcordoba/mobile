@@ -1,0 +1,37 @@
+<ion-view view-title="+ Control Vial (C.A.B.A.)">
+<ion-header-bar class="bar-positive">
+  <h2 class="title">Detalle</h2>
+</ion-header-bar>
+  <ion-content>
+    <ion-list class="list-inset">
+      <ion-item class="item-text-wrap" ng-repeat="item in caba  | filter: { id: whichartist } | limitTo :1">
+          <img ng-src="img/{{item.name}}_tn.jpg" width="84" height="84" alt="{{ item.name }}">
+          <h3>{{ item.title }}</h3>
+          <div style="margin-left: 17px;">
+              <p style="font-family: Helvetica Neue,​Roboto,​sans-serif;font-size: 12px" align="justify">{{ item.detail }}</p>
+          </div>
+          <div style="margin-left: 30px;font-size: 0.7rem;">
+              <p align="justify" ng-if="item.subdetail">  <li ng-if="item.subdetail">  {{item.subdetail}}  </li></p>
+              <p align="justify" ng-if="item.subdetail_1"><li ng-if="item.subdetail_1">{{item.subdetail_1}}</li></p>
+              <p align="justify" ng-if="item.subdetail_2"><li ng-if="item.subdetail_2">{{item.subdetail_2}}</li></p>
+              <p align="justify" ng-if="item.subdetail_3"><li ng-if="item.subdetail_3">{{item.subdetail_3}}</li></p>
+              <p align="justify" ng-if="item.subdetail_4"><li ng-if="item.subdetail_4">{{item.subdetail_4}}</li></p>
+              <p align="justify" ng-if="item.subdetail_5"><li ng-if="item.subdetail_5">{{item.subdetail_5}}</li></p>
+              <p align="justify" ng-if="item.subdetail_6"><li ng-if="item.subdetail_6">{{item.subdetail_6}}</li></p>
+              <p align="justify" ng-if="item.subdetail_7"><li ng-if="item.subdetail_7">{{item.subdetail_7}}</li></p>
+              <p align="justify" ng-if="item.subdetail_8"><li ng-if="item.subdetail_8">{{item.subdetail_8}}</li></p>
+        </div>
+        <div class="card" ng-if="item.multa_1">
+          <h3 ng-if="item.multa_1">Multa</h3>
+          <div class="item item-text-wrap" style="font-size: 0.7rem;" ng-if="item.multa_1">
+            <p align="justify" ng-if="item.multa_1">  <li ng-if="item.multa_1">  {{item.multa_1}}  </li></p>
+            <p align="justify" ng-if="item.multa_2">  <li ng-if="item.multa_2">  {{item.multa_2}}  </li></p>
+            <p align="justify" ng-if="item.multa_3">  <li ng-if="item.multa_3">  {{item.multa_3}}  </li></p>
+            <p align="justify" ng-if="item.multa_4">  <li ng-if="item.multa_4">  {{item.multa_4}}  </li></p>
+            <p align="justify" ng-if="item.multa_5">  <li ng-if="item.multa_5">  {{item.multa_5}}  </li></p>
+          </div>
+        </div>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

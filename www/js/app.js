@@ -67,6 +67,15 @@ angular.module('starter', ['ionic'])
       }
     })
 
+    .state('tabs.detailCaba', {
+      url: '/listcaba/:aId',
+      views: {
+        'listcaba-tab': {
+          templateUrl: 'templates/detailCaba.html',
+          controller: 'ListCabaController'
+        }
+      }
+    })
     .state('tabs.multa', {
       url: '/multa',
       views: {
