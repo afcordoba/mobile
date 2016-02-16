@@ -57,9 +57,12 @@ body {
   background-color: #9EC6DE;
   border-top: 20px solid #417D9A;
 }
-
+.dayhighlight2 {
+    background-color: #08bce9;
+    border-top: 20px solid #b6c7bd;
+}
 .dayhighlight h2 {
   color: #417D9A;
-  font-size: 2rem;
-  font-weight: 200;
+  font-size: 1.2rem;
+  font-weight: 150;
 }
