@@ -1,5 +1,6 @@
-<ion-view view-title="+ Control Vial (C.A.B.A.)">
- <ion-content class="splash padding">
+<ion-view view-title="Mas Control Vial C.A.B.A">
+  
+  <ion-content class="splash padding">
     <div class="day" ng-repeat="item in caba  | filter: { id: whichartist } | limitTo :1">
           
           <div class="item item-divider item-divider-calm">
@@ -7,7 +8,7 @@
           </div><!-- item divider -->
         <div ng-show="item.title" class="item item-list item-text-wrap dayhighlight">
            
-              <h2>{{item.detail}}</h2>
+              {{item.detail}}
               <p align="justify" ng-if="item.subdetail">  
                 <li ng-if="item.subdetail"> {{item.subdetail}}</li>
                 <li ng-if="item.subdetail_1">{{item.subdetail_1}}</li>
@@ -21,18 +22,15 @@
               </p>
            
           </div>
-          <div ng-show="item.title" class="item item-list item-text-wrap dayhighlight2">    
-                  <h3>MULTA</h3>
-                  <img ng-src="img/oie_transparent.png" width="40" height="63" alt="multa">
-                  <!--<h2>{{item.time}}</h2>-->
-                  
-                  <h4>R.A.</h4>
+          <div ng-show="item.title" ng-if="item.multa_1" ng-controller="PopupCtrl" class="item item-list item-text-wrap dayhighlight2">    
+                  <h2>MULTA</h2>
                   <p>
                     <li ng-if="item.multa_1">  {{item.multa_1}} </li>
                     <li ng-if="item.multa_2">  {{item.multa_2}} </li>
                     <li ng-if="item.multa_3">  {{item.multa_3}} </li>
                     <li ng-if="item.multa_4">  {{item.multa_4}} </li>
                     <li ng-if="item.multa_5">  {{item.multa_5}} </li>
+                    <button class="button button-positive" ng-click="showAlertCaba()">Ver Valor U.F</button>
                   </p>
 
   

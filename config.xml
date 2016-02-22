@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.myapp339619" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>+Control Vial</name>
+  <name>Mas Control Vial</name>
   <description>&#xD;
-        An Ionic Framework and Cordova project.&#xD;
+        Aplicacion informativa educativa.&#xD;
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">&#xD;
-      Ionic Framework Team&#xD;
+  <author email="afcordoba@yahoo.com.ar" href="http://ionicframework.com/">&#xD;
+      Alejandro F. Córdoba&#xD;
     </author>
   <content src="index.html"/>
   <access origin="*"/>
@@ -69,10 +69,29 @@
     <splash src="resources/android/splash/drawable-port-ldpi-screen.png" density="port-ldpi"/>
     <splash src="resources/android/splash/drawable-port-mdpi-screen.png" density="port-mdpi"/>
   </platform>
+  <platform name="windows">
+    <icon height="99" src="resources/icon/windows/ApplicationIcon.png" width="99"/>
+    <icon height="150" src="resources/icon/windows/logo.png" width="150"/>
+    <icon height="30" src="resources/icon/windows/smalllogo.png" width="30"/>
+    <icon height="50" src="resources/icon/windows/storelogo.png" width="50"/>
+    <icon height="106" src="resources/icon/windows/lumia630.png" width="106"/>
+    <icon src="resources/icon/windows/Wide310x150Logo.scale-100.png" width="310" height="150"/>
+    <icon src="resources/icon/windows/Square71x71Logo.scale-240.png" width="170" height="170"/>
+    <icon src="resources/icon/windows/Wide310x150Logo.scale-240.png" width="744" height="360"/>
+    <icon src="resources/icon/windows/Square150x150Logo.scale-240.png" width="360" height="360"/>
+    <icon src="resources/icon/windows/Square71x71Logo.scale-100.png" width="71" height="71"/>
+    <icon src="resources/icon/windows/Square44x44Logo.scale-100.png" width="44" height="44"/>
+    <icon src="resources/icon/windows/StoreLogo.scale-240.png" width="120" height="120"/>
+    <icon src="resources/icon/windows/Square70x70Logo.scale-100.png" width="70" height="70"/>
+    <icon src="resources/icon/windows/Square310x310Logo.scale-100.png" width="310" height="310"/>
+    <splash height="1280" src="resources/screen/windows/SplashScreenImage.png" width="768"/>
+    <splash height="300" src="resources/screen/windows/SplashScreen.png" width="620"/>
+    <splash height="1920" src="resources/screen/windows/SplashScreenPhone.scale-240.png" width="1152"/>
+  </platform>
   <platform name="wp8">
-    <icon src="resources/wp8/icon/ApplicationIcon.png" width="99" height="99"/>
-    <icon src="resources/wp8/icon/Background.png" width="159" height="159"/>
-    <splash src="resources/wp8/splash/SplashScreenImage.png" width="768" height="1280"/>
+    <icon src="resources\wp8\icon\ApplicationIcon.png" width="99" height="99"/>
+    <icon src="resources\wp8\icon\Background.png" width="159" height="159"/>
+    <splash src="resources\wp8\splash\SplashScreenImage.png" width="768" height="1280"/>
   </platform>
   <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
   <plugin name="cordova-plugin-whitelist" spec="~1.2.1"/>

@@ -1,8 +1,5 @@
 /* Empty. Add your own CSS if you like */
 
-body {
-  cursor: url('http://ionicframework.com/img/finger.png');
-}
 
 .star>.item-content {
   background-color: #EEE8D6 !important;
@@ -40,8 +37,14 @@ body {
 
 .bar-positive, .tabs-positive>.tabs {
   background-color: #30669D !important;
-  border-color:  #30669D;
+  border-color:  #35A1E1;
 }
+
+.bar-calm, .tabs-calm>.tabs {
+  background-color: #387EF5 !important;
+  border-color:  #387EF5;
+}
+
 
 .item-thumbnail-left img {
   border-radius: 10px;
@@ -58,8 +61,12 @@ body {
   border-top: 20px solid #417D9A;
 }
 .dayhighlight2 {
-    background-color: #08bce9;
+    background-color: #cccc99;
     border-top: 20px solid #b6c7bd;
+}
+.dayhighlight3 {
+    background-color: #00e6e6;
+    border-top: 20px solid #417D9A;
 }
 .dayhighlight h2 {
   color: #417D9A;
