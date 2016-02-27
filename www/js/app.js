@@ -170,8 +170,8 @@ angular.module('starter', ['ionic'])
       $scope.onItemDelete = function(item) {
         $scope.tips.splice($scope.tips.indexOf(item), 1);
       };
-     
-     
+
+
       $scope.doRefresh = function() {
         $http.get('js/data.json').success(function(data) {
           $scope.tips = data;
@@ -194,7 +194,7 @@ angular.module('starter', ['ionic'])
    $scope.showAlert = function() {
      var alertPopup = $ionicPopup.alert({
        title: '<b>Valor U.F <b>',
-       template: ' 1 U.F = 1 Ltro.Nafta Alto Octanage = $15,40'
+       template: ' 1 U.F = 1 Litro.Nafta Alto Octanaje = $15,40'
      });
      alertPopup.then(function(res) {
        console.log('Usted consultó el valor de U.F. de R.A.');
@@ -203,7 +203,7 @@ angular.module('starter', ['ionic'])
     $scope.showAlertCaba = function() {
      var alertPopup = $ionicPopup.alert({
        title: '<b>Valor U.F </b> (C.A.B.A.)',
-       template: ' 1 U.F = 1/2 Ltro.Nafta Alto Octanage = $7,70'
+       template: ' 1 U.F = 1/2 Litro Nafta Alto Octanaje = $7,70'
      });
      alertPopup.then(function(res) {
        console.log('Usted consultó el valor de U.F. de C.A.B.A.');
