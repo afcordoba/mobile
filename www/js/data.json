@@ -3,9 +3,9 @@
     {
       "detail": "Es motivo de multa:",
       "id": 1,
-      "subdetail": "Negarse a realizar la prueba de alcoholemia (y presuncion de alcoholemia positiva)",
-      "subdetail_1": "Conducir en estado de intoxicación alcohólica. Se debe detectar 0,5 g de alcohol en litro de sangre mediante el uso de alcoholimetros u otros mecanismos de control homologados. Ante el resultado positivo se debe requerir la intervencion de la autoridad sanitaria pertinente. El interesado puede requerir repetir las pruebas a efectos de contraste. Tambien es motivo de arresto del conductor.",
-      "subdetail_2": "",
+      "subdetail": "Negarse a realizar la prueba de alcoholemia (y presuncion de alcoholemia positiva) Art. 73 de la Ley Nº 24.449, art. 115 Decreto 437/2011.",
+      "subdetail_1": "Conducir en estado de intoxicación alcohólica. Art. 48 inciso a) de la Ley Nº 24.449, art. 67 Decreto 437/2011. Se debe detectar 0,5 g de alcohol en litro de sangre mediante el uso de alcoholimetros u otros mecanismos de control homologados. Ante el resultado positivo se debe requerir la intervencion de la autoridad sanitaria pertinente. El interesado puede requerir repetir las pruebas a efectos de contraste.",
+      "subdetail_2": "Conducir en estado de intoxicación alcohólica tambien es motivo de arresto del conductor.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -21,7 +21,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No cumplir con las obligaciones legales para participes de un accidente de tránsito, será sancionado con multa. Es obligatorio para quienes participan en un accidente de transito: detenerse inmediatamente, denunciar el hecho ante la autoridad de aplicacion, suministrar los datos de la licencia de conducir y del seguro obligatorio a la otra parte y a la autoridad interviniente, comparecer y declarar ante la autoridad de juzgamiento o investigacion cuando sean citados.",
+      "detail": "No cumplir con las obligaciones legales para participes de un accidente de tránsito, será sancionado con multa. Art. 65 de la Ley Nº 24.449, art. 113 Decreto 437/2011. Es obligatorio para quienes participan en un accidente de transito: detenerse inmediatamente, denunciar el hecho ante la autoridad de aplicacion, suministrar los datos de la licencia de conducir y del seguro obligatorio a la otra parte y a la autoridad interviniente, comparecer y declarar ante la autoridad de juzgamiento o investigacion cuando sean citados.",
       "id": 2,
       "subdetail": "",
       "subdetail_1": "",
@@ -42,8 +42,8 @@
     },{
       "detail": "Es motivo de multa: ",
       "id": 3,
-      "subdetail": " Adelantarse por la derecha,",
-      "subdetail_1": "Adelantarse en curvas encrucijadas y otras zonas peligrosas. ",
+      "subdetail": " Adelantarse por la derecha. Art.  42 inciso h) de la Ley Nº 24.449, art. 52 Decreto 437/2011.,",
+      "subdetail_1": "Adelantarse en curvas, encrucijadas y otras zonas peligrosas. Art. 48 inciso j) de la Ley Nº 24.449, art. 76 Decreto 437/2011.",
       "subdetail_2": "Recordar que la doble linea amarilla (señal vial horizontal) indica la prohibicion de adelantar a otro vehiculo.",
       "subdetail_3": "",
       "subdetail_4": "",
@@ -78,7 +78,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir un vehículo sin audífonos cuando la licencia indique su obligación de uso es motivo de multa.",
+      "detail": "Conducir un vehículo sin audífonos cuando la licencia indique su obligación de uso es motivo de multa. Art. 14 inc. a) ap. 4) ley 24449, art. 6 decreto 437/2011.",
       "id": 5,
       "subdetail": "",
       "subdetail_1": "",
@@ -97,7 +97,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir utilizando auriculares es motivo de multa",
+      "detail": "Conducir utilizando auriculares es motivo de multa. Art. 48 inciso x) de la Ley Nº 24.449, art. 91 Decreto 437/2011.",
       "id": 6,
       "subdetail": "",
       "subdetail_1": "",
@@ -116,11 +116,30 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Sera motivo de multa circular sin ajustarse a las reglas de circulación establecidas para las autopistas y semiautopistas :",
+      "title": "ANTEOJOS - LENTES DE CONTACTO.",
+      "detail": "Conducir un vehículo sin anteojos o lentes de contacto cuando la licencia indique su obligación de uso, es motivo de multa. Art. 14 inc. a) ap. 4) ley 24449, art. 6 decreto 437/2011. ",
       "id": 7,
-      "subdetail": "Circular en el carril extremo izquierdo sin ser utilizado para el desplazamiento a la máxima velocidad admitida por la vía y para maniobras de adelantamiento,",
-      "subdetail_1": "Estacionar o detenerse, para ascenso y descenso de pasajeros, o para efectuar carga y descarga de mercaderías (excepto en las dársenas construidas al efecto si las hubiere)",
-      "subdetail_2": "Circular remolcando vehiculos accidentados, con desperfectos mecánicos, etc., más allá de la primera salida de la autopista,",
+      "subdetail": "",
+      "subdetail_1": "",
+      "subdetail_2": "",
+      "subdetail_3": "",
+      "subdetail_4": "",
+      "subdetail_5": "",
+      "subdetail_6": "",
+      "subdetail_7": "",
+      "subdetail_8": "","resume":"",
+      "name": "curva",
+      "multa_1":"100 unidades fijas.",
+      "multa_2":"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
+    },{
+      "detail": "Sera motivo de multa circular sin ajustarse a las reglas de circulación establecidas para las autopistas y semiautopistas :",
+      "id": 8,
+      "subdetail": "Circular en el carril extremo izquierdo sin ser utilizado para el desplazamiento a la máxima velocidad admitida por la vía y para maniobras de adelantamiento, Art. 46 inciso a) de la Ley Nº 24.449, art. 62 Decreto 437/2011.",
+      "subdetail_1": "Estacionar o detenerse, para ascenso y descenso de pasajeros, o para efectuar carga y descarga de mercaderías (excepto en las dársenas construidas al efecto si las hubiere). Art. 46 inciso c) de la Ley Nº 24.449, art. 64 Decreto 437/2011.",
+      "subdetail_2": "Circular remolcando vehiculos accidentados, con desperfectos mecánicos, etc., más allá de la primera salida de la autopista, Art. 46 inciso c) y d) de la Ley Nº 24.449, art. 65 Decreto 437/2011.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -135,8 +154,27 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa.Las balizas portatiles (2) deben tener forma de triangulo equilatero con una superficie no menor a 0,5 m2, una longitud ente 0,4 y 0,5 m y un ancho entre 0,05 y 0,08 m. Debe contener material retrorreflectante rojo en un minImo de 0,25 m2, el resto puede ser material fluorescente anaranjado. En la base tendran un soporte que asegure su estabilidad. Debe cumplir con la Norma IRAM 10.031/83.",
-      "id": 8,
+      "detail": "Girar a la izquierda en vías de doble mano reguladas por semáforo sin señal que lo permita es motivo de multa. Art. 44 inciso f) de la Ley Nº 24.449, art. 60 Decreto 437/2011.",
+      "id": 9,
+      "subdetail": "",
+      "subdetail_1": "",
+      "subdetail_2": "",
+      "subdetail_3": "",
+      "subdetail_4": "",
+      "subdetail_5": "",
+      "subdetail_6": "",
+      "subdetail_7": "",
+      "subdetail_8": "","resume":"",
+      "name": "señales",
+      "title": "AVENIDA-GIRO",
+      "multa_1":"En vías de doble mano semaforizadas: multa de 100 a 300 U.F.",
+      "multa_2" :"",
+      "multa_3":"",
+      "multa_4" :"",
+      "multa_5" :""
+    },{
+      "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa. Art. 40 inciso f) de la Ley Nº 24.449, art. 29 Decreto 437/2011. Las balizas portatiles (2) deben tener forma de triangulo equilatero con una superficie no menor a 0,5 m2, una longitud ente 0,4 y 0,5 m y un ancho entre 0,05 y 0,08 m. Debe contener material retrorreflectante rojo en un minImo de 0,25 m2, el resto puede ser material fluorescente anaranjado. En la base tendran un soporte que asegure su estabilidad. Debe cumplir con la Norma IRAM 10.031/83.",
+      "id": 10,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -154,8 +192,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Usar la bocina o señales acústicas (excepto en caso de peligro o en zona rural), o tener el vehículo sirena o bocina no autorizadas, es motivo de multa.",
-      "id": 9,
+      "detail": "Usar la bocina o señales acústicas (excepto en caso de peligro o en zona rural), o tener el vehículo sirena o bocina no autorizadas, es motivo de multa. Art. 48 inciso v) de la Ley Nº 24.449, art. 89 Decreto 437/2011.",
+      "id": 11,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -174,7 +212,7 @@
       "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa.",
-      "id": 10,
+      "id": 12,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -185,7 +223,7 @@
       "subdetail_7": "",
       "subdetail_8": "","resume":"",
       "name": "señales",
-      "title": "BOLSA O SABANA MORTUORIA",
+      "title": "BOLSA, MANTA O SABANA MORTUORIA",
       "multa_1":"",
       "multa_2" :"",
       "multa_3":"",
@@ -193,7 +231,7 @@
       "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa",
-      "id": 11,
+      "id": 13,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -212,7 +250,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 12,
+      "id": 14,
       "subdetail": "Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o sea insalubre en vehículos o continentes no destinados a ese fin.",
       "subdetail_1": "Transportar cualquier carga o elemento que perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte luces o indicadores o sobresalga de los límites permitidos.",
       "subdetail_2": "",
@@ -230,8 +268,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir utilizando celular es motivo de multa.",
-      "id": 14,
+      "detail": "Conducir utilizando celular es motivo de multa. Art. 48 inciso x) de la Ley Nº 24.449, art. 91 Decreto 437/2011.",
+      "id": 15,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -249,8 +287,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "La falta de uso de alguno de los ocupantes del vehiculo es motivo de multa.",
-      "id": 15,
+      "detail": "La falta de uso de alguno de los ocupantes del vehiculo es motivo de multa. Art. 40 inciso k) de la Ley Nº 24.449, art. 34 Decreto 437/2011.",
+      "id": 16,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -268,8 +306,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Circular con vehículos que emitan gases, humos, ruidos, radiaciones u otras emanaciones contaminantes del ambiente, que excedan los límites reglamentarios es motivo de multa.",
-      "id": 16,
+      "detail": "Circular con vehículos que emitan gases, humos, ruidos, radiaciones u otras emanaciones contaminantes del ambiente, que excedan los límites reglamentarios es motivo de multa. Art. 48 inciso w) de la Ley Nº 24.449, art. 90 Decreto 437/2011.",
+      "id": 17,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -288,7 +326,7 @@
       "multa_5" :""
     },{
       "detail": "No circular por la calzada sobre la derecha es motivo de multa.",
-      "id": 17,
+      "id": 18,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -306,8 +344,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Circular en el sentido contrario de la señalización es motivo de multa.",
-      "id": 18,
+      "detail": "Circular en el sentido contrario de la señalización es motivo de multa. Art. 48 inc. c) de la Ley Nº 24.449, art. 69 Decreto Nº 437/2011.",
+      "id": 19,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -326,7 +364,7 @@
       "multa_5" :""
     },{
       "detail": "Circular con cubiertas con fallas o sin la profundidad legal de los canales en su banda de rodamiento, es motivo de multa. En vehículos de 1,6 mm, en ciclomotores de 0,5 mm. y en motocicletas la profundidad mínima será de 1 mm. Se consideran cubiertas con fallas las que presentan deterioros visibles como cortaduras que lleguen al casco, desprendimientos o separaciones del caucho o desgaste de la banda de rodamiento que deje expuestas las telas. Los neumaticos de un mismo eje o conjunto deben ser de igual tamaño, tipo, construccion, peso bruto y montados en aros de la misma dimension. Esta prohibida la utilizacion de neumaticos redibujados.",
-      "id": 19,
+      "id": 20,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -345,7 +383,7 @@
       "multa_5" :""
     },{
       "detail": "",
-      "id": 20,
+      "id": 21,
       "subdetail": "Cuando estuvieren vencidas.",
       "subdetail_1": "Cuando hubieren caducado por cambio de datos no denunciados oportunamente.",
       "subdetail_2": "Cuando no se ajusten a los límites de edad correspondientes.",
@@ -364,7 +402,7 @@
       "multa_5" :""
     },{
       "detail": "",
-      "id": 21,
+      "id": 22,
       "subdetail": "Cuando sean sorprendidos in-fraganti en estado de intoxicación alcohólica, estupefacientes u otra sustancia. Requiere comprobante médico o de dispositivo aprobado que acredite tal estado. Esta retención no deberá exceder de 12 hs.",
       "subdetail_1": "Por pretender fugar habiendo participado en un accidente por el tiempo necesario para labrar las actuaciones policiales correspondientes. No puede exceder 12 hs.",
       "subdetail_2": "Por conducir un automotor sin habilitado o con la habilitación suspendida.",
@@ -383,7 +421,7 @@
       "multa_5" :""
     },{
       "detail": "",
-      "id": 22,
+      "id": 23,
       "subdetail": "Cuando no cumplan con las exigencias de seguridad reglamentaria. La retención durará el tiempo necesario para labrar el acta excepto si el requisito faltante es tal que pone en peligro cierto la seguridad del tránsito. En tal caso la retención durará hasta que se repare el defecto.",
       "subdetail_1": "Si son conducidos por personas no habilitadas para el tipo de vehículos que conducen, inhabilitadas, con habilitación suspendida o que no cumplan con las edades reglamentarias para cada tipo de vehículo. Luego de labrada el acta, el vehículo podrá ser liberado bajo la conducción de otra persona habilitada, caso contrario el vehículo será removido y remitido a los depósitos que indique la autoridad de comprobación.",
       "subdetail_2": "Cuando se comprobare que estuviere o circulare excedido en peso o en sus dimensiones.",
@@ -402,7 +440,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 23,
+      "id": 24,
       "subdetail": "Su falta,",
       "subdetail_1": "Circular con placas de identificacion de dominio no correspondientes,",
       "subdetail_2": "Circular faltando la placa de identificacion de dominio delantera o por no tenerla en lugar reglamentario,",
@@ -421,7 +459,7 @@
       "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa.",
-      "id": 24,
+      "id": 25,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -440,7 +478,7 @@
       "multa_5" :""
     },{
       "detail": "La conducción, en rutas, autopistas y semiautopistas, a una distancia del vehículo que lo precede menor a 2 SEGUNDOS es motivo de multa.",
-      "id": 25,
+      "id": 26,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -459,7 +497,7 @@
       "multa_5" :""
     },{
       "detail": "Su uso es obligatorio hasta los 4 años. El incumplimiento de esta disposicion es motivo de multa.",
-      "id": 26,
+      "id": 27,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -478,7 +516,7 @@
       "multa_5" :""
     },{
       "detail": "No exhibirla es motivo de multa.",
-      "id": 27,
+      "id": 28,
       "subdetail": "DNI",
       "subdetail_1": "Licencia de conducir.",
       "subdetail_2": "Cédula verde (o cedula azul en el supuesto que el vehiculo no sea de su propiedad).",
@@ -497,7 +535,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir bajo los efectos de estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales para la conduccion segura, es motivo de multa.",
-      "id": 28,
+      "id": 29,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -516,7 +554,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir utilizando pantallas o monitores de video VHF, DVD o similar en el interior del habitaculo del conductor es motivo de multa.",
-      "id": 29,
+      "id": 30,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -535,7 +573,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 30,
+      "id": 31,
       "subdetail": "No estacionar, en zona urbana, paralelamente al cordón (excepto que la autoridad local establezca otras formas),",
       "subdetail_1": "Estacionar, en zona urbana, donde se pueda afectar la seguridad, visibilidad o fluidez del tránsito o se oculte la señalización,",
       "subdetail_2": "Estacionar, en zona urbana, en las esquinas, entre su vértice ideal y la línea imaginaria que resulte de prolongar la ochava y en cualquier lugar peligroso,",
@@ -554,7 +592,7 @@
       "multa_5" :""
     },{
       "detail": "Para que tengan plena validez deben cumplir ciertos requisitos técnicos y legales. Los radares deben estar aprobados y homologados y la calibracion no debe estar vencida. Deben estar debidamente señalizados, como asi tambien el limite de velocidad. La confección del acta y su notificación deben cumplir ciertas formalidades. La autoridad pertinente debera notificar la falta al conductor dentro de los 10 kms. del lugar donde se cometio la infraccion (y cuando este procedimiento fuera imposible sera valida la notificacion al domicilio del presunto infractor). Cualquier defecto técnico o legal inhabilita la infracción. ",
-      "id": 31,
+      "id": 32,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -586,25 +624,6 @@
       "name": "curva",
       "title": "GIRO",
       "multa_1":"No advertir la maniobra: multa de 100 a 300 U.F.",
-      "multa_2" :"",
-      "multa_3":"",
-      "multa_4" :"",
-      "multa_5" :""
-    },{
-      "detail": "Girar a la izquierda en vías de doble mano reguladas por semáforo sin señal que lo permita es motivo de multa.",
-      "id": 34,
-      "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
-      "subdetail_7": "",
-      "subdetail_8": "","resume":"",
-      "name": "señales",
-      "title": "AVENIDA-GIRO",
-      "multa_1":"En vías de doble mano semaforizadas: multa de 100 a 300 U.F.",
       "multa_2" :"",
       "multa_3":"",
       "multa_4" :"",
