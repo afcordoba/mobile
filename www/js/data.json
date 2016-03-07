@@ -251,9 +251,9 @@
     },{
       "detail": "Es motivo de multa:",
       "id": 14,
-      "subdetail": "Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o sea insalubre en vehículos o continentes no destinados a ese fin.",
-      "subdetail_1": "Transportar cualquier carga o elemento que perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte luces o indicadores o sobresalga de los límites permitidos.",
-      "subdetail_2": "",
+      "subdetail": "Transportar residuos, escombros, tierra, arena, grava, aserrín, otra carga a granel, polvorientas, que difunda olor desagradable, emanaciones nocivas o sea insalubre en vehículos o continentes no destinados a ese fin. Art. 48 inciso p) de la Ley Nº 24.449, art. 83 Decreto 437/2011.",
+      "subdetail_1": "Transportar cualquier carga o elemento que perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte luces o indicadores o sobresalga de los límites permitidos. Art. 48 inciso q) de la Ley Nº 24.449, art. 84 Decreto 437/2011.",
+      "subdetail_2": "Se considera comprendida en esta prohibicion el transporte de bicicletas cuando sobresalga los limites permitidos.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -325,7 +325,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No circular por la calzada sobre la derecha es motivo de multa.",
+      "detail": "No circular por la calzada sobre la derecha es motivo de multa. Art. 39 de la Ley Nº 24.449, art. 24 Decreto Nº 437/2011.",
       "id": 18,
       "subdetail": "",
       "subdetail_1": "",
@@ -363,9 +363,9 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Circular con cubiertas con fallas o sin la profundidad legal de los canales en su banda de rodamiento, es motivo de multa. En vehículos de 1,6 mm, en ciclomotores de 0,5 mm. y en motocicletas la profundidad mínima será de 1 mm. Se consideran cubiertas con fallas las que presentan deterioros visibles como cortaduras que lleguen al casco, desprendimientos o separaciones del caucho o desgaste de la banda de rodamiento que deje expuestas las telas. Los neumaticos de un mismo eje o conjunto deben ser de igual tamaño, tipo, construccion, peso bruto y montados en aros de la misma dimension. Esta prohibida la utilizacion de neumaticos redibujados.",
+      "detail": "Circular con cubiertas con fallas o sin la profundidad legal de los canales en su banda de rodamiento, es motivo de multa. En vehículos de 1,6 mm, en ciclomotores de 0,5 mm. y en motocicletas la profundidad mínima será de 1 mm. Art. 48 inciso l) de la Ley Nº 24.449, art. 78 Decreto 437/2011.",
       "id": 20,
-      "subdetail": "",
+      "subdetail": "Se consideran cubiertas con fallas las que presentan deterioros visibles como cortaduras que lleguen al casco, desprendimientos o separaciones del caucho o desgaste de la banda de rodamiento que deje expuestas las telas. Los neumaticos de un mismo eje o conjunto deben ser de igual tamaño, tipo, construccion, peso bruto y montados en aros de la misma dimension. Esta prohibida la utilizacion de neumaticos redibujados.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -439,7 +439,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Es motivo de multa:",
+      "detail": "Es motivo de multa (Art. 40 inciso d) de la Ley Nº 24.449, art. 28 Decreto 437/2011.):",
       "id": 24,
       "subdetail": "Su falta,",
       "subdetail_1": "Circular con placas de identificacion de dominio no correspondientes,",
@@ -477,7 +477,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "La conducción, en rutas, autopistas y semiautopistas, a una distancia del vehículo que lo precede menor a 2 SEGUNDOS es motivo de multa.",
+      "detail": "La conducción, en rutas, autopistas y semiautopistas, a una distancia del vehículo que lo precede menor a 2 SEGUNDOS es motivo de multa. Art. 48 inciso g) de la Ley Nº 24.449, art. 73 Decreto 437/2011.",
       "id": 26,
       "subdetail": "",
       "subdetail_1": "",
@@ -496,7 +496,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Su uso es obligatorio hasta los 4 años. El incumplimiento de esta disposicion es motivo de multa.",
+      "detail": "Su uso es obligatorio hasta los 4 años. El incumplimiento de esta disposicion es motivo de multa. Art. 40 inciso g) de la Ley Nº 24.449, art. 40  inc. G) ap. 2 Decreto 779 (Titulo VI, Cap. I) y art. 30 Decreto 437/2011.",
       "id": 27,
       "subdetail": "",
       "subdetail_1": "",
@@ -515,7 +515,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No exhibirla es motivo de multa.",
+      "detail": "No exhibirla es motivo de multa. Art. 37  y 40 inc. b y c de la Ley Nº 24.449, art. 37 Decreto 779 (Titulo VI, Cap. I) y art. 21 Decreto Nº 437/2011.",
       "id": 28,
       "subdetail": "DNI",
       "subdetail_1": "Licencia de conducir.",
@@ -534,7 +534,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir bajo los efectos de estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales para la conduccion segura, es motivo de multa.",
+      "detail": "Conducir bajo los efectos de estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales para la conduccion segura, es motivo de multa. Art. 48 inciso a) de la Ley Nº 24.449, art. 67 Decreto 437/2011.",
       "id": 29,
       "subdetail": "",
       "subdetail_1": "",
@@ -553,7 +553,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir utilizando pantallas o monitores de video VHF, DVD o similar en el interior del habitaculo del conductor es motivo de multa.",
+      "detail": "Conducir utilizando pantallas o monitores de video VHF, DVD o similar en el interior del habitaculo del conductor es motivo de multa. Art. 48 inciso x) de la Ley Nº 24.449, art. 91 Decreto 437/2011.",
       "id": 30,
       "subdetail": "",
       "subdetail_1": "",
@@ -574,15 +574,15 @@
     },{
       "detail": "Es motivo de multa:",
       "id": 31,
-      "subdetail": "No estacionar, en zona urbana, paralelamente al cordón (excepto que la autoridad local establezca otras formas),",
-      "subdetail_1": "Estacionar, en zona urbana, donde se pueda afectar la seguridad, visibilidad o fluidez del tránsito o se oculte la señalización,",
-      "subdetail_2": "Estacionar, en zona urbana, en las esquinas, entre su vértice ideal y la línea imaginaria que resulte de prolongar la ochava y en cualquier lugar peligroso,",
-      "subdetail_3": "Estacionar, en zona urbana, sobre la senda para peatones o bicicletas, aceras, rieles, sobre la calzada, y en los 10 metros anteriores y posteriores a la parada del transporte de pasajeros,",
-      "subdetail_4": "Estacionar, en zona urbana, frente a la puerta de hospitales, escuelas y otros servicios públicos, hasta 10 metros a cada lado de ellos, salvo los vehículos relacionados a la función del establecimiento,",
-      "subdetail_5": "Estacionar, en zona urbana, frente a la salida de cines, teatros y similares, durante su funcionamiento,",
-      "subdetail_6": "Estacionar, en zona urbana, en los accesos de garages en uso y de estacionamiento con ingreso habitual de vehículos, siempre que tengan la señal pertinente, con el respectivo horario de prohibición o restricción,",
-      "subdetail_7": "Estacionar, en zona urbana, por un periodo mayor de 5 días o del lapso que fije la autoridad local,",
-      "subdetail_8": "Estacionar, en zona urbana, en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento.",
+      "subdetail": "No estacionar, en zona urbana, paralelamente al cordón (excepto que la autoridad local establezca otras formas), Art. 49 inciso a) de la Ley Nº 24.449, art. 93 Decreto 437/2011.",
+      "subdetail_1": "Estacionar, en zona urbana, donde se pueda afectar la seguridad, visibilidad o fluidez del tránsito o se oculte la señalización, Art. 49 inciso b) apartado 1) de la Ley Nº 24.449, art. 94 Decreto 437/2011.",
+      "subdetail_2": "Estacionar, en zona urbana, en las esquinas, entre su vértice ideal y la línea imaginaria que resulte de prolongar la ochava y en cualquier lugar peligroso,  Art. 49 inciso b) apartado 2) de la Ley Nº 24.449, art. 95 Decreto 437/2011.",
+      "subdetail_3": "Estacionar, en zona urbana, sobre la senda para peatones o bicicletas, aceras, rieles, sobre la calzada, y en los 10 metros anteriores y posteriores a la parada del transporte de pasajeros,  Art. 49 inciso b) apartado 3) de la Ley Nº 24.449, art. 96 Decreto 437/2011.",
+      "subdetail_4": "Estacionar, en zona urbana, frente a la puerta de hospitales, escuelas y otros servicios públicos, hasta 10 metros a cada lado de ellos, salvo los vehículos relacionados a la función del establecimiento. Art. 49 inciso b) apartado 4) de la Ley Nº 24.449, art. 97 Decreto 437/2011.",
+      "subdetail_5": "Estacionar, en zona urbana, frente a la salida de cines, teatros y similares, durante su funcionamiento,  Art. 49 inciso b) apartado 5) de la Ley Nº 24.449, art. 98 Decreto 437/2011.",
+      "subdetail_6": "Estacionar, en zona urbana, en los accesos de garages en uso y de estacionamiento con ingreso habitual de vehículos, siempre que tengan la señal pertinente, con el respectivo horario de prohibición o restricción,  Art. 49 inciso b) apartado 6) de la Ley Nº 24.449, art. 99 Decreto 437/2011.",
+      "subdetail_7": "Estacionar, en zona urbana, por un periodo mayor de 5 días o del lapso que fije la autoridad local. Art. 49 inciso b) apartado 7) de la Ley Nº 24.449, art. 100 Decreto 437/2011. ",
+      "subdetail_8": "Estacionar, en zona urbana, en espacios reservados para vehículos determinados donde conste la pertinente delimitación y señalamiento. Art. 49 inciso c)  de la Ley Nº 24.449, art. 102 Decreto 437/2011.",
       "name": "señales",
       "title": "ESTACIONAMIENTO",
       "multa_1":"No estacionar paralelamente al cordón: multa de 50 a 100 U.F.",
@@ -591,15 +591,15 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Para que tengan plena validez deben cumplir ciertos requisitos técnicos y legales. Los radares deben estar aprobados y homologados y la calibracion no debe estar vencida. Deben estar debidamente señalizados, como asi tambien el limite de velocidad. La confección del acta y su notificación deben cumplir ciertas formalidades. La autoridad pertinente debera notificar la falta al conductor dentro de los 10 kms. del lugar donde se cometio la infraccion (y cuando este procedimiento fuera imposible sera valida la notificacion al domicilio del presunto infractor). Cualquier defecto técnico o legal inhabilita la infracción. ",
+      "detail": "Para que tengan plena validez deben cumplir ciertos requisitos técnicos y legales (cualquier defecto técnico o legal inhabilita la infracción):",
       "id": 32,
-      "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
+      "subdetail": "La confección del acta y su notificación deben cumplir ciertas formalidades (art. 70 inc. A) ap. 3 y 4 Ley 24449 y Decreto 779).",
+      "subdetail_1": "La autoridad debe identificarse ante el presunto infactor, indicandole la dependencia al la que pertenece,",
+      "subdetail_2": "Se debe utilizar el formulario de acta reglamentario, entregando copia al presunto infractor (salvo que no se identificarse o se diere a la fuga, lo cual se hara constar en el acta).",
+      "subdetail_3": "La autoridad debera notificar la falta al conductor dentro de los 10 kms. del lugar donde se cometio la infraccion (y cuando este procedimiento fuera imposible sera valida la notificacion al domicilio del presunto infractor).",
+      "subdetail_4": "Los radares deben contar con la homologación de la Secretaria de Industria y Comercio N° 753/98 ajustada a la ley 25.650 y  no debe estar vencida la calibración del equipo (certificado de verificación periódica).",
+      "subdetail_5": "Si estan ubicados en zonas de caminos nacionales, deben contar con la autorización de la DIRECCIÓN NACIONAL DE VIALIDAD o del ORGANO DE CONTROL DE CONCESIONES, o se encuentre autorizado en función a las facultades de la AGENCIA NACIONAL DE SEGURIDAD VIAL y la DIRECCION NACIONAL DE VIALIDAD.",
+      "subdetail_6": "La presencia de los mismos debe estar debidamente señalizada, como asi tambien el limite de velocidad.",
       "subdetail_7": "",
       "subdetail_8": "","resume":"",
       "name": "curva",
@@ -610,7 +610,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No advertir la maniobra con suficiente antelación, mediante la señal luminosa correspondiente es motivo de multa.",
+      "detail": "No advertir la maniobra con suficiente antelación, mediante la señal luminosa correspondiente es motivo de multa. Art. 43 inciso a) de la Ley Nº 24.449, art. 54 Decreto 437/2011.",
       "id": 33,
       "subdetail": "",
       "subdetail_1": "",
@@ -648,9 +648,9 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa. Debe estar construido segun normas IRAM, ubicarse dentro del habitaculo del vehiculo al alcance del conductor (excepto los mayores a 1 kg). El soporte debe impedir el desprendimiento, debe poder ser liberado facilmente para su empleo y ubicarse en un lugar que no cree riesgos.",
+      "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa. Art. 40 inciso f) de la Ley Nº 24.449, art. 29 Decreto 437/2011.",
       "id": 36,
-      "subdetail": "",
+      "subdetail": "Debe estar construido segun normas IRAM, ubicarse dentro del habitaculo del vehiculo al alcance del conductor (excepto los mayores a 1 kg). El soporte debe impedir el desprendimiento, debe poder ser liberado facilmente para su empleo y ubicarse en un lugar que no cree riesgos.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -669,15 +669,15 @@
     },{
       "detail": "Es motivo de multa: ",
       "id": 37,
-      "subdetail": "Circular estando legalmente inhabilitado. Tambien es motivo de retencion de licencia.",
-      "subdetail_1": "",
-      "subdetail_2": "Circular sin haber sido habilitado,",
-      "subdetail_3": "Circular teniendo suspendida la habilitacion.",
-      "subdetail_4": "",
-      "subdetail_5": "Circular con habilitacion vencida,",
-      "subdetail_6": "Circular sin portar licencia estando habilitado,",
-      "subdetail_7": "Circular con licencia caduca debido a no haber denunciado la modificación de datos dentro de los 90 días de producida dicha modificación es motivo de multa.",
-      "subdetail_8": "Se considera que la licencia ha caducado en el supuesto en que el conductor ha realizado cambio de domicilio y no ha realizado la denuncia respectiva en la Licencia Nacional de Conducir.",
+      "subdetail": "Circular estando legalmente inhabilitado. Art. 40 inciso a) de la Ley Nº 24.449, art. 25 Decreto 437/2011. Tambien es motivo de retencion de licencia. Art. 72 Ley 24449.",
+      "subdetail_1": "Circular sin haber sido habilitado, Art. 40 inciso a) de la Ley Nº 24.449, art. 25 Decreto 437/2011.",
+      "subdetail_2": "Circular teniendo suspendida la habilitacion. Art. 19 ley 24449. Multa: art. 8 Decreto 437/2011. Tambien es motivo de retencion de licencia. Art. 72 Ley 24449",
+      "subdetail_3": "Circular con habilitacion vencida, Art. 13 inc c) ley 24449. Multa. Art.4 Decreto 437/2011. Tambien es motivo de retencion de licencia. Art. 72 Ley 24449.",
+      "subdetail_4": "Circular sin portar licencia estando habilitado, Art. 40 inciso a) de la Ley Nº 24.449, art. 25 Decreto 437/2011.",
+      "subdetail_5": "Circular con licencia caduca debido a no haber denunciado la modificación de datos dentro de los 90 días de producida dicha modificación es motivo de multa. Art. 18 ley 24449. Multa: art. 7 decreto 437/2011. Tambien es motivo de retencion de licencia. Art. 72 Ley 24449.",
+      "subdetail_6": "Se considera que la licencia ha caducado en el supuesto en que el conductor ha realizado cambio de domicilio  y no ha realizado la denuncia respectiva en la Licencia Nacional de Conducir.",
+      "subdetail_7": "",
+      "subdetail_8": "",
       "name": "curva",
       "title": "LICENCIA DE CONDUCIR.",
       "multa_1":"Circular estando legalmente inhabilitado: multa de 300 a 1000 U.F.",
@@ -707,8 +707,8 @@
     },{
       "detail": "Es motivo de multa:",
       "id": 39,
-      "subdetail": "No cumplir las reglas previstas para el uso de luces",
-      "subdetail_1": "Circular sin contar el vehiculo sin el sistema de iluminacion correspondiente y las luces adicionales exigidas.",
+      "subdetail": "No cumplir las reglas previstas para el uso de luces. Art. 47 de la Ley Nº 24.449, art. 66  Decreto 437/2011.",
+      "subdetail_1": "Circular sin contar el vehiculo sin el sistema de iluminacion correspondiente y las luces adicionales exigidas. Arts. 31 y 32 de la Ley Nº 24.449, art. 17 Decreto 437/2011.",
       "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
@@ -724,7 +724,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Circular marcha atrás (excepto para estacionar, egresar de un garage o de una calle sin salida), es motivo de multa.",
+      "detail": "Circular marcha atrás (excepto para estacionar, egresar de un garage o de una calle sin salida), es motivo de multa. 48 inciso h) de la Ley Nº 24.449, art. 74 Decreto 437/2011.",
       "id": 40,
       "subdetail": "",
       "subdetail_1": "",
@@ -743,7 +743,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Hasta los 10 años es obligatorio que los niños viajen en el asiento trasero con el cinturon de seguridad. Su incumplimiento es motivo de multa.",
+      "detail": "Hasta los 10 años es obligatorio que los niños viajen en el asiento trasero con el cinturon de seguridad. Su incumplimiento es motivo de multa. Art. 40 inciso g) de la Ley Nº 24.449, art. 30 Decreto 437/2011",
       "id": 41,
       "subdetail": "",
       "subdetail_1": "",
@@ -762,9 +762,9 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir sin tener cumplida la edad reglamentaria es motivo de multa. Los menores de 18 años no pueden conducir ciclomotores en zonas céntricas, de gran concentración de vehículos o vías rápidas.",
+      "detail": "Conducir sin tener cumplida la edad reglamentaria es motivo de multa. Art. 11 de la Ley Nº 24.449, art. 2 Decreto 437/2011.",
       "id": 42,
-      "subdetail": "",
+      "subdetail": "Los menores de 18 años no pueden conducir ciclomotores en zonas céntricas, de gran concentración de vehículos o vías rápidas, Art. 48 inciso e) de la Ley Nº 24.449, art. 71 Decreto 437/2011.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -781,7 +781,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Si el número de ocupantes del vehiculo es superior a la capacidad para la que fue construido es motivo de multa.",
+      "detail": "Si el número de ocupantes del vehiculo es superior a la capacidad para la que fue construido es motivo de multa. Art. 40 inciso g) de la Ley Nº 24.449, art. 30 Decreto 437/2011.",
       "id": 43,
       "subdetail": "",
       "subdetail_1": "",
@@ -800,7 +800,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "La organizacion o participacion de competencias no autorizadas en la via publica es motivo de multa. Tambien puede ser sancionada con el arresto del conductor.",
+      "detail": "La organizacion o participacion de competencias no autorizadas  en la via publica es motivo de multa. Tambien puede ser sancionada con el arresto del conductor. Art. 86 inciso d) de la Ley Nº 24.449, art. 118 Decreto 437/2011.",
       "id": 44,
       "subdetail": "",
       "subdetail_1": "",
@@ -819,7 +819,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "2 años para faltas leves y 5 años para faltas graves y sanciones.",
+      "detail": "2 años para faltas leves y 5 años para faltas graves y sanciones. Art. 89 Ley 24449.",
       "id": 45,
       "subdetail": "",
       "subdetail_1": "",
@@ -838,7 +838,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No ceder el paso en las encrucijadas al vehiculo que cruza desde su derecha es motivo de multa.",
+      "detail": "No ceder el paso en las encrucijadas al vehiculo que cruza desde su derecha es motivo de multa. Art. 41 de la Ley Nº 24.449, art. 36 Decreto 437/2011.",
       "id": 46,
       "subdetail": "",
       "subdetail_1": "",
@@ -857,9 +857,9 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No respetar la prioridad normativa es motivo de multa. Entiendase por prioridad normativa: no respetar las indicaciones de la autoridad de comprobación o aplicación, las curva del tránsito y las normas legales, en ese orden de prioridad,",
+      "detail": "No respetar la prioridad normativa es motivo de multa. Art. 36 de la Ley Nº 24.449, art. 20 Decreto 437/2011.",
       "id": 47,
-      "subdetail": "",
+      "subdetail": "Entiendase por prioridad normativa: no respetar las indicaciones de la autoridad de comprobación o aplicación, las señales del tránsito y las normas legales, en ese orden de prioridad.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -876,7 +876,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No respetar la prioridad de los peatones en las sendas peatonales o zonas peligrosas, es motivo de multa.",
+      "detail": "No respetar la prioridad de los peatones en las sendas peatonales o zonas peligrosas, es motivo de multa. Art. 41 inciso e) de la Ley Nº 24.449, art. 40 Decreto 437/2011.",
       "id": 48,
       "subdetail": "",
       "subdetail_1": "",
@@ -895,7 +895,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Es motivo de multa.",
+      "detail": "Es motivo de multa. Art. 43 de la Ley Nº 24.449, art. 53 Decreto 437/2011.",
       "id": 49,
       "subdetail": "",
       "subdetail_1": "",
@@ -914,9 +914,9 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "No respetar la señalización y las prioridades es motivo de multa. Recordar: tiene prioridad de paso el que circula por la rotonda sobre el que intenta ingresar debiendo cederla al que egresa.",
+      "detail": "No respetar la señalización y las prioridades es motivo de multa. Art. 43  inc. e) de la Ley Nº 24.449, art. 55 Decreto 437/2011.",
       "id": 50,
-      "subdetail": "",
+      "subdetail": "Recordar: tiene prioridad de paso el que circula por la rotonda sobre el que intenta ingresar debiendo cederla al que egresa.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -935,9 +935,9 @@
     },{
       "detail": "Es motivo de multa:",
       "id": 51,
-      "subdetail": "No respetar las indicaciones de las luces de los semáforos.",
-      "subdetail_1": "No detenerse con luz roja (la cual deberá ser antes de la senda peatonal o de la línea marcada a tal efecto). A la tercer reincidencia es motivo de retencion del conductor.",
-      "subdetail_2": "Haber iniciado el cruce, aún con luz verde, sin tener espacio suficiente del otro lado de la encrucijada.",
+      "subdetail": "No respetar las indicaciones de las luces de los semáforos. Art. 44 inciso a) apartados 1, 3, 4 y 5 de la Ley Nº 24.449, art. 56 Decreto 437/2011.",
+      "subdetail_1": "No detenerse con luz roja (la cual deberá ser antes de la senda peatonal o de la línea marcada a tal efecto). A la tercer reincidencia es motivo de retencion del conductor. Art. 44 inciso a) apartado 2 de la Ley Nº 24.449, art. 57 Decreto 437/2011.",
+      "subdetail_2": "Haber iniciado el cruce, aún con luz verde, sin tener espacio suficiente del otro lado de la encrucijada. Art. 44 inciso e)  de la Ley Nº 24.449, art. 59 Decreto 437/2011.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -954,8 +954,8 @@
     },{
       "detail": "Es motivo de multa:",
       "id": 52,
-      "subdetail": "Circular sin contar el vehículo condiciones mínimas de seguridad. Tambien puede ser motivo de retencion del vehiculo",
-      "subdetail_1": "Circular sin poseer el vehiculo los sistemas de seguridad originales en buen estado de funcionamiento.",
+      "subdetail": "Circular sin contar el vehículo condiciones mínimas de seguridad. Arts. 28, 29, 30 y 33 de la Ley Nº 24.449, art. 15 Decreto 437/2011. Tambien puede ser motivo de retencion del vehiculo.",
+      "subdetail_1": "Circular sin poseer el vehiculo los sistemas de seguridad originales en buen estado de funcionamiento. Art. 40 inciso i) de la Ley Nº 24.449, art. 32 Decreto 437/2011.",
       "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
@@ -1821,9 +1821,9 @@
       "multa_5" :""
     },{
       "title": "COMPROBANTE DE PAGO DEL SEGURO.",
-      "detail": "No es obligatorio llevar comprobante de pago del seguro.",
+      "detail": "Circular sin portar el comprobante de la poliza de seguro. Art.  40 inciso c) de la Ley Nº 24.449, art. 27 Decreto 437/2011.",
       "id": 10,
-      "subdetail": "",
+      "subdetail": "Circular sin tener cobertura de seguro obligatorio. Art.  68 de la Ley Nº 24.449, art. 114 Decreto 437/2011.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
