@@ -1490,7 +1490,7 @@
       "title": "ALCOHOLEMIA- NEGATIVA A SOMETERSE A CONTROL.",
       "detail": "Es motivo de multa:",
       "id": 1,
-      "subdetail": "Negarse a someterse a las pruebas establecidas de control de alcoholemia, estupefacientes u otras sustancias similares.",
+      "subdetail": "Negarse a someterse a las pruebas establecidas de control de alcoholemia, estupefacientes u otras sustancias similares, es motivo de multa . Art. 100 Ley 4811.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -1509,7 +1509,7 @@
       "title": "ANTIRADAR O ANTIFOTO.",
       "detail": "Es motivo de multa.",
       "id": 2,
-      "subdetail": "Circular con vehiculo que  posea o esté equipado con cualquier elemento que, incorporado a éste, tengan aptitud para burlar o evadir los controles de tránsito y velocidad, es sancionado/a.",
+      "subdetail": "Circular con vehiculo que posea o esté equipado con cualquier elemento que, incorporado a éste, tengan aptitud para burlar o evadir los controles de tránsito y velocidad, es motivo de multa  y decomiso de los elementos. Art. 273 Ley 4.811.",
       "subdetail_1": "",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -1526,7 +1526,7 @@
       "multa_5" :""
     },{
       "title": "ANTEOJOS O LENTES DE CONTACTO.",
-      "detail": "Conducir sin anteojos o lentes de contacto es motivo de multa.",
+      "detail": "Conducir sin anteojos o lentes de contacto es motivo de multa. Art. 269 Ley 4.811.",
       "id": 3,
       "subdetail": "",
       "subdetail_1": "",
@@ -1545,7 +1545,7 @@
       "multa_5" :""
     },{
       "title": "BARRERAS FERROVIARIAS.",
-      "detail": "Cruzar o iniciar el cruce de vías férreas mientras las barreras están bajas o el paso no está expedíto, es motivo de multa.",
+      "detail": "Cruzar o iniciar el cruce de vías férreas mientras las barreras están bajas o el paso no está expedíto, es motivo de multa. Art. 3 Ley 4.034.",
       "id": 4,
       "subdetail": "",
       "subdetail_1": "",
@@ -1564,7 +1564,7 @@
       "multa_5" :""
     },{
       "title": "BOCACALLES.",
-      "detail": "No respetar la prioridad de paso en una bocacalle y/o un indicador de PARE es motivo de multa.",
+      "detail": "No respetar la prioridad de paso en una bocacalle y/o un indicador de "PARE" es motivo de multa. Art. 288 Ley 4.811.",
       "id": 5,
       "subdetail": "",
       "subdetail_1": "",
@@ -1585,8 +1585,8 @@
       "title": "BOCINA.",
       "detail": "Es motivo de multa:",
       "id": 6,
-      "subdetail": "Usar indebidamente la bocina,",
-      "subdetail_1": "Circular con un vehiculo que tenga bocinas o sirenas antirreglamentarias.",
+      "subdetail": "Usar indebidamente la bocina. Art. 278 Ley 4.811.,",
+      "subdetail_1": "Circular con un vehiculo que tenga bocinas o sirenas antirreglamentarias. Art. 279 Ley 4811.",
       "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
@@ -1602,7 +1602,7 @@
       "multa_5" :""
     },{
       "title": "CAPACIDAD DEL VEHÍCULO.",
-      "detail": "Transportar mayor número de personas que el permitido por la capacidad del rodado es motivo de multa.",
+      "detail": "Transportar mayor número de personas que el permitido por la capacidad del rodado es motivo de multa. Art. 294 Ley 4.811.",
       "id": 7,
       "subdetail": "",
       "subdetail_1": "",
@@ -1621,7 +1621,7 @@
       "multa_5" :""
     },{
       "title": "CARRILES O VÍAS PROHIBIDAS.",
-      "detail": "Es motivo de multa:",
+      "detail": "Es motivo de multa(art. 86 Ley 4.811):",
       "id": 8,
       "subdetail": "Circular por arterias peatonales, o por zonas o carriles prohibidos, exclusivos, y/o preferenciales, o excediendo los límites dimensiones, peso o potencia, permitidas para la vía transitada,",
       "subdetail_1": "Utilizar el carril del Sistema de tránsito rápido, diferenciado y en red para el transporte público masivo por automotor de pasajeros denominado METROBUS DE BUENOS AIRES,",
@@ -1640,7 +1640,7 @@
       "multa_5" :""
     },{
       "title": "CINTURON DE SEGURIDAD.",
-      "detail": "Circular sin utilizar correctamente el cinturon de seguridad algun ocupante del vehiculo es motivo de multa.",
+      "detail": "Circular sin utilizar correctamente el cinturon de seguridad algun ocupante del vehiculo es motivo de multa. Art.75 Ley 4.811.",
       "id": 9,
       "subdetail": "",
       "subdetail_1": "",
@@ -1697,7 +1697,7 @@
       "multa_5" :""
     },{
       "title": "CONDUCCIÓN PELIGROSA.",
-      "detail": "Circular sin tener instalados los sistemas obligatorios de frenos, luces, cinturón de seguridad en las plazas correspondientes u otros elementos de seguridad, o los tenga con deficiencias, es motivo de multa.",
+      "detail": "Circular sin respetar los carriles o sin adviertir con luces, o manualmente, la realización de una maniobra, o que su conducta sea temeraria, maliciosa o imprudente, es motivo de  multa. Art. 82 ley 4.811.",
       "id": 12,
       "subdetail": "",
       "subdetail_1": "",
@@ -1716,7 +1716,7 @@
       "multa_5" :""
     },{
       "title": "CONTRAMANO.",
-      "detail": "Circule en sentido contrario al permitido es motivo de multa.",
+      "detail": "Circule en sentido contrario al permitido es motivo de multa. Art. 285 ley 4.811.",
       "id": 13,
       "subdetail": "",
       "subdetail_1": "",
@@ -1735,7 +1735,7 @@
       "multa_5" :""
     },{
       "title": "ENSEÑANZA DE CONDUCCIÓN.",
-      "detail": "Enseñar a otro a conducir un vehículo en lugares no habilitados, es motivo de multa. Cuando el infractor/a pertenezca a una academia de aprendizaje la multa se eleva al doble.",
+      "detail": "Enseñar a otro a conducir un vehículo en lugares no habilitados, es motivo de multa. Art. 304 Ley 4.811 .Cuando el infractor/a pertenezca a una academia de aprendizaje la multa se eleva al doble.",
       "id": 14,
       "subdetail": "",
       "subdetail_1": "",
@@ -1754,7 +1754,7 @@
       "multa_5" :""
     },{
       "title": "ESPEJOS RETROVISORES.",
-      "detail": "Circular sin espejo retrovisor o con objetos que dificulten la visión a través del vidrio trasero o de los vidrios laterales del vehículo es motivo de multa.",
+      "detail": "Circular sin espejo retrovisor o con objetos que dificulten la visión a través del vidrio trasero o de los vidrios laterales del vehículo es motivo de multa. Art. 283 Ley 4.811.",
       "id": 15,
       "subdetail": "",
       "subdetail_1": "",
@@ -1773,7 +1773,7 @@
       "multa_5" :""
     },{
       "title": "ESTACIONAMIENTO O DETENCIÓN PROHIBIDA.",
-      "detail": "Estacionar o se detenerse en un lugar prohibido o en forma antirreglamentaria, es motivo de multa.",
+      "detail": "Estacionar o se detenerse en un lugar prohibido o en forma antirreglamentaria, es motivo de multa. Art. 96 Ley 4.811.",
       "id": 16,
       "subdetail": "Cuando el estacionamiento se realice en lugares reservados para servicios de emergencia o para vehículos de personas con necesidades especiales, paradas de transporte de pasajeros, rampas para discapacitados, entradas de vehículos, ciclovías, carriles exclusivos, corredores de Metrobus y zonas de Microcentro y Macrocentro, la multa se elevará al doble.",
       "subdetail_1": "",
@@ -1792,7 +1792,7 @@
       "multa_5" :""
     },{
       "title": "ESTACIONAMIENTO MEDIDO.",
-      "detail": "Estacionar en lugar tarifado y/o medido en la vía pública y permanecer en él por un tiempo de hasta una hora en exceso del efectivamente abonado, es motivo de multa",
+      "detail": "Estacionar en lugar tarifado y/o medido en la vía pública y permanecer en él por un tiempo de hasta una hora en exceso del efectivamente abonado, es motivo de multa. Art. 302 ley 4.811.",
       "id": 17,
       "subdetail": "",
       "subdetail_1": "",
@@ -1811,7 +1811,7 @@
       "multa_5" :""
     },{
       "title": "ESTACIONAMIENTO EN ÁREAS PEATONALES.",
-      "detail": "Estacionar o se detenerse en arterias peatonales o sobre las aceras, es motivo de multa",
+      "detail": "Estacionar o se detenerse en arterias peatonales o sobre las aceras, es motivo de multa. Art. 303 Ley 4.811.",
       "id": 19,
       "subdetail": "",
       "subdetail_1": "",
@@ -1830,7 +1830,7 @@
       "multa_5" :""
     },{
       "title": "EXHIBICIÓN DE DOCUMENTACIÓN.",
-      "detail": "Negarse a exhibir documentacion (Cédula Verde vigente a nombre del titular, o en su defecto la Cédula Azul a nombre del conductor) es motivo de multa",
+      "detail": "Negarse a exhibir documentacion (Cédula Verde vigente a nombre del titular, o en su defecto la Cédula Azul a nombre del conductor) es motivo de multa. Art. 71 ley 4811.",
       "id": 20,
       "subdetail": "",
       "subdetail_1": "",
@@ -1849,7 +1849,7 @@
       "multa_5" :""
     },{
       "title": "FACILITAR VEHÍCULO A MENOR.",
-      "detail": "Ceder, permitir o de algún modo facilitar el manejo a una persona sin la edad necesaria para el tipo de vehículo de que se trate es motivo de multa.",
+      "detail": "Ceder, permitir o de algún modo facilitar el manejo a una persona sin la edad necesaria para el tipo de vehículo de que se trate es motivo de multa. Art. 271 Ley 4.811.",
       "id": 22,
       "subdetail": "",
       "subdetail_1": "",
@@ -1868,7 +1868,7 @@
       "multa_5" :""
     },{
       "title": "FILAS ESCOLARES.",
-      "detail": "Interrumpir el paso de una fila de escolares es motivo de multa.",
+      "detail": "Interrumpir el paso de una fila de escolares es motivo de multa. Art. 291 Ley 4.811.",
       "id": 21,
       "subdetail": "",
       "subdetail_1": "",
@@ -1887,7 +1887,7 @@
       "multa_5" :""
     },{
       "title": "FRANQUICIAS.",
-      "detail": "Utilizar o exhibir carteles, credenciales, chapas patente, o cualquier tipo de documentos que acrediten una franquicia de tránsito y/o estacionamiento inexistente o antirreglamentaria o no aplicable a la persona que lo utiliza o exhibe, es motivo de multa",
+      "detail": "Utilizar o exhibir carteles, credenciales, chapas patente, o cualquier tipo de documentos que acrediten una franquicia de tránsito y/o estacionamiento inexistente o antirreglamentaria o no aplicable a la persona que lo utiliza o exhibe, es motivo de multa. Art. 313 Ley 4.811.",
       "id": 23,
       "subdetail": "",
       "subdetail_1": "",
@@ -1906,7 +1906,7 @@
       "multa_5" :""
     },{
       "title": "GIRO PROHIBIDO.",
-      "detail": "Girar hacia una transversal en forma antirreglamentaria o gire en U en la misma arteria, es motivo de multa.",
+      "detail": "Girar hacia una transversal en forma antirreglamentaria o gire en U en la misma arteria, es motivo de multa. Art. 287 Ley 4.811.",
       "id": 24,
       "subdetail": "",
       "subdetail_1": "",
@@ -1925,7 +1925,7 @@
       "multa_5" :""
     },{
       "title": "INDICACIONES DE LA AUTORIDAD.",
-      "detail": "No respetar las indicaciones de la persona autorizada para dirigir el tránsito es motivo de multa.",
+      "detail": "No respetar las indicaciones de la persona autorizada para dirigir el tránsito es motivo de multa. Art. 97 Ley 4.811.",
       "id": 25,
       "subdetail": "",
       "subdetail_1": "",
@@ -1944,7 +1944,7 @@
       "multa_5" :""
     },{
       "title": "INVASIÓN PARCIAL DE VÍAS.",
-      "detail": "Circular en sentido contrario al permitido invadiendo parcialmente la otra mano en vías de doble sentido de circulación, es motivo de multa.",
+      "detail": "Circular en sentido contrario al permitido invadiendo parcialmente la otra mano en vías de doble sentido de circulación, es motivo de multa. Art. 86 Ley 4.811.",
       "id": 26,
       "subdetail": "",
       "subdetail_1": "",
@@ -1963,7 +1963,7 @@
       "multa_5" :""
     },{
       "title": "INCUMPLIMIENTO DE IDENTIFICACIÓN DE CONDUCTOR.",
-      "detail": "El titular registral del vehículo que no identifique al conductor  y no tenga licencia de conducir, sera sancionado con multa.",
+      "detail": "El titular registral del vehículo que no identifique al conductor  y no tenga licencia de conducir, sera sancionado con multa. Art. 101 Ley 4.811.",
       "id": 27,
       "subdetail": "",
       "subdetail_1": "",
@@ -1984,10 +1984,10 @@
       "title": "LICENCIA DE CONDUCIR",
       "detail": "Es motivo de multa:",
       "id": 28,
-      "subdetail": "No portar la  licencia.",
-      "subdetail_1": "Conducir sin poseer licencia.",
-      "subdetail_2": "Conducir con licencia vencida o caduca.",
-      "subdetail_3": "Conducir sin portar la licencia que lo habilite para conducir la categoría del vehículo de que se trate.",
+      "subdetail": "No portar la  licencia. Art. 70 Ley 4.811.",
+      "subdetail_1": "Conducir sin poseer licencia. Art. 2 Ley 3.717.",
+      "subdetail_2": "Conducir con licencia vencida o caduca. Art. 2 Ley 3.717.",
+      "subdetail_3": "Conducir sin portar la licencia que lo habilite para conducir la categoría del vehículo de que se trate. Art. 270 Ley 4.811.",
       "subdetail_4": "",
       "subdetail_5": "",
       "subdetail_6": "",
@@ -2003,8 +2003,8 @@
       "title": "LUCES",
       "detail": "Es motivo de multa:",
       "id": 29,
-      "subdetail": "Circular sin las luces reglamentarias encendidas en cualquier horario por las arterias en las que rija tal obligatoriedad o utilizar las luces altas cuando no está permitido.",
-      "subdetail_1": "Utilizar vehículos que posean luces no contempladas en las normas o que induzcan a error a los demás conductores.",
+      "subdetail": "Circular sin las luces reglamentarias encendidas en cualquier horario por las arterias en las que rija tal obligatoriedad o utilizar las luces altas cuando no está permitido, es motivo de multa. Art.310 Ley 4.811.",
+      "subdetail_1": "Utilizar vehículos que posean luces no contempladas en las normas o que induzcan a error a los demás conductores. Art. 311 Ley 4811.",
       "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
@@ -2020,7 +2020,7 @@
       "multa_5" :""
     },{
       "title": "MARCHA ATRÁS.",
-      "detail": "Circular marcha atrás en forma indebida y sin justificación es motivo de multa.",
+      "detail": "Circular marcha atrás en forma indebida y sin justificación es motivo de multa. Art. 289 Ley 4.811.",
       "id": 30,
       "subdetail": "",
       "subdetail_1": "",
@@ -2039,7 +2039,7 @@
       "multa_5" :""
     },{
       "title": "OBSTRUCCIÓN DE VÍA.",
-      "detail": "Causar la obstrucción de la vía transversal, ciclovías, veredas, rampas para discapacitados o estacionamientos reservados, es  motivo de  multa.",
+      "detail": "Causar la obstrucción de la vía transversal, ciclovías, veredas, rampas para discapacitados o estacionamientos reservados, es  motivo de  multa. Art. 85 Ley 4.811.",
       "id": 31,
       "subdetail": "",
       "subdetail_1": "",
@@ -2058,7 +2058,7 @@
       "multa_5" :""
     },{
       "title": "OBLIGACIÓN DE CEDER EL PASO.",
-      "detail": "No ceder el paso a los vehículos de bomberos, ambulancias, policía o de servicios públicos o servicios de urgencia es motivo de multa.",
+      "detail": "o ceder el paso a los vehículos de bomberos, ambulancias, policía o de servicios públicos o servicios de urgencia es motivo de multa. Art. 290 Ley 4.811.",
       "id": 32,
       "subdetail": "",
       "subdetail_1": "",
@@ -2079,8 +2079,8 @@
       "title": "PARAGOLPES.",
       "detail": "Es motivo de multa:",
       "id": 33,
-      "subdetail": "Poseer el vehículo paragolpes antirreglamentarios,",
-      "subdetail_1": "Circular en un vehiculo que no posea alguno de los paragolpes reglamentarios.",
+      "subdetail": "Poseer el vehículo paragolpes antirreglamentarios. Art. 280 Ley 4.811.",
+      "subdetail_1": "Circular en un vehiculo que no posea alguno de los paragolpes reglamentarios. Art. 281 Ley 4.811.",
       "subdetail_2": "",
       "subdetail_3": "",
       "subdetail_4": "",
@@ -2096,7 +2096,7 @@
       "multa_5" :""
     },{
       "title": "PEAJE.",
-      "detail": "Efectuar el paso por las estaciones de peaje de las autopistas evadiendo el correspondiente pago es motivo de multa.",
+      "detail": "Efectuar el paso por las estaciones de peaje de las autopistas evadiendo el correspondiente pago es motivo de multa. Art. 83 ley 4.811.",
       "id": 34,
       "subdetail": "",
       "subdetail_1": "",
@@ -2115,7 +2115,7 @@
       "multa_5" :""
     },{
       "title": "PERSONAS IMPEDIDAS DE VIAJAR EN ASIENTO DELANTERO.",
-      "detail": "Permitir viajar en el asiento delantero a personas de menor edad  a  la autorizada en la normativa vigente, es motivo de multa.",
+      "detail": "Permitir viajar en el asiento delantero a personas de menor edad  a  la autorizada en la normativa vigente, es motivo de multa. Art. 284 Ley 4.811.",
       "id": 35,
       "subdetail": "",
       "subdetail_1": "",
@@ -2134,7 +2134,7 @@
       "multa_5" :""
     },{
       "title": "PLACAS DE DOMINIO.",
-      "detail": "Circular, estar estacionado o detenido en la vía pública sin tener colocadas la/s placa/s oficial/es de dominio automotor, o que estando colocadas se impida o dificulte su visualización mediante pliegues, aditamentos, mal estado de conservación, colocación en lugares o en forma antirreglamentaria, giradas respecto de su posición normal o por cualquier otro método que dificultar su identificación, es motivo de multa.",
+      "detail": "Circular, estar estacionado o detenido en la vía pública sin tener colocadas la/s placa/s oficial/es de dominio automotor, o que estando colocadas se impida o dificulte su visualización mediante pliegues, aditamentos, mal estado de conservación, colocación en lugares o en forma antirreglamentaria, giradas respecto de su posición normal o por cualquier otro método que dificultar su identificación, es motivo de multa. Art. 1 Ley 5.317",
       "id": 36,
       "subdetail": "",
       "subdetail_1": "",
@@ -2153,7 +2153,7 @@
       "multa_5" :""
     },{
       "title": "PLACAS DE OTRO VEHICULO.",
-      "detail": "Circular, estar estacionado o detenido en la vía pública teniendo colocadas placas oficiales de identificación de dominio que no correspondan al mismo, es motivo de  multa, de  inmovilización del rodado y el decomiso de las placas. ",
+      "detail": "Circular, estar estacionado o detenido en la vía pública teniendo colocadas placas oficiales de identificación de dominio que no correspondan al mismo, es motivo de  multa, de  inmovilización del rodado y el decomiso de las placas. Art. 74 Ley 4.811.",
       "id": 37,
       "subdetail": "",
       "subdetail_1": "",
@@ -2171,8 +2171,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "title": "PÓLIZA DE SEGURO.",
-      "detail": "Es motivo de multa: ",
+      "title": "PÓLIZA DE SEGURO ",
+      "detail": "Es motivo de multa. Art. 72 Ley 4811: ",
       "id": 38,
       "subdetail": "No portar poliza.",
       "subdetail_1": "No contar con seguro obligatorio en vigencia.",
@@ -2191,7 +2191,7 @@
       "multa_5" :""
     },{
       "title": "PRIORIDAD DE PASO DE LOS PEATONES.",
-      "detail": "No respetar la senda peatonal o la prioridad de paso de los peatones es motivo de  multa.",
+      "detail": "No respetar la senda peatonal o la prioridad de paso de los peatones es motivo de multa. Art. 292 Ley 4.811. ",
       "id": 39,
       "subdetail": "",
       "subdetail_1": "",
@@ -2210,7 +2210,7 @@
       "multa_5" :""
     },{
       "title": "PROHIBICIÓN DE CIRCULAR.",
-      "detail": "Violar las normas que, por razones de día, horario y/o características de los vehículos, regulan la circulación de los mismos es motivo de  multa ",
+      "detail": "Violar las normas que, por razones de día, horario y/o características de los vehículos, regulan la circulación de los mismos es motivo de multa. Art. 293. Ley 4.811.",
       "id": 40,
       "subdetail": "",
       "subdetail_1": "",
@@ -2229,7 +2229,7 @@
       "multa_5" :""
     },{
       "title": "SEMÁFORO.",
-      "detail": "Cruzar la bocacalle habiendo iniciado el cruce con el semáforo en rojo, es sancionado/a con multa.",
+      "detail": "Cruzar la bocacalle habiendo iniciado el cruce con el semáforo en rojo, es sancionado/a con multa. Art. 99 Ley 4.811.",
       "id": 41,
       "subdetail": "",
       "subdetail_1": "",
@@ -2248,7 +2248,7 @@
       "multa_5" :""
     },{
       "title": "SISTEMAS O DISPOSITIVOS DE RETENCIÓN INFANTIL.",
-      "detail": "Trasladar a menores de 12 años o con una altura menor a 1,50 m sin utilizar el sistema o dispositivo de retención infantil correspondiente, es motivo de multa.",
+      "detail": "Trasladar a menores de 12 años o con una altura menor a 1,50 m sin utilizar el sistema o dispositivo de retención infantil correspondiente, es motivo de multa. Art. 3 Ley 5.294.",
       "id": 42,
       "subdetail": "",
       "subdetail_1": "",
@@ -2266,27 +2266,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "title": "SISTEMAS O DISPOSITIVOS DE RETENCIÓN INFANTIL.",
-      "detail": "Trasladar a menores de 12 años o con una altura menor a 1,50 m sin utilizar el sistema o dispositivo de retención infantil correspondiente, es motivo de multa.",
-      "id": 44,
-      "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
-      "subdetail_7": "",
-      "subdetail_8": "","resume":"",
-      "name": "curva",
-      "multa_1":"Multa: 100 unidades fijas.",
-      "multa_2":"",
-      "multa_3":"",
-      "multa_4" :"",
-      "multa_5" :""
-    },{
       "title": "TAPA DE COMBUSTIBLE.",
-      "detail": "Circular sin la tapa del tanque de combustible es motivo de  multa. ",
+      "detail": "Circular sin la tapa del tanque de combustible es motivo de multa. Art. 79 Ley 4.811.",
       "id": 45,
       "subdetail": "",
       "subdetail_1": "",
@@ -2305,7 +2286,7 @@
       "multa_5" :""
     },{
       "title": "TELÉFONOS CELULARES Y/O REPRODUCTORES DE VIDEO.",
-      "detail": "Es motivo de multa: ",
+      "detail": "Es motivo de multa(art. 80 ley 4.811): ",
       "id": 46,
       "subdetail": "Conducir un vehículo o motovehículo manipulando teléfono celular o utilizando auriculares en ambos oídos o utilizando equipos reproductores de video,",
       "subdetail_1": "Cuando el conductor se encuentre redactando o enviando mensajes de texto.",
@@ -2324,7 +2305,7 @@
       "multa_5" :""
     },{
       "title": "VELOCIDAD",
-      "detail": "Es motivo de multa: ",
+      "detail": "Es motivo de multa(art. 81 ley 4.811): ",
       "id": 47,
       "subdetail": "No respetar los límites de velocidad máximos establecidos, cuando circulare a una velocidad superior a 140 Kilometros por hora; sea cual fuere el tipo de calzada por el que transite (arterias, avenidas, vías rápidas, etc.).",
       "subdetail_1": "No respetar los límites de velocidad máximos establecidos, cuando circulare en exceso de más de 20 k/h en la velocidad permitida para el tipo de arteria y de más de 40 k/h en el caso de vías rápidas y, en ambos casos, hasta 140 k/h.",
@@ -2343,7 +2324,7 @@
       "multa_5" :""
     },{
       "title": "VERIFICACIÓN TÉCNICA.",
-      "detail": "Es motivo de multa: ",
+      "detail": "Es motivo de multa (Art. 274 Ley 4.811): ",
       "id": 48,
       "subdetail": "No portar el certificado de verificación técnica.",
       "subdetail_1": "No haber realizado la verificación técnica cuando correspondiere, o se encontrara el certificado vencido.",
@@ -2362,7 +2343,7 @@
       "multa_5" :""
     },{
       "title": "VIDRIOS TONALIZADOS.",
-      "detail": "Circular con vidrios tonalizados que impidan distinguir a sus ocupantes, es motivo de multa. ",
+      "detail": "Circular con vidrios tonalizados que impidan distinguir a sus ocupantes, es motivo de multa. Art. 281 Ley 4.811.",
       "id": 49,
       "subdetail": "",
       "subdetail_1": "",
