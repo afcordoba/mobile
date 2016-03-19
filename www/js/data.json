@@ -1519,7 +1519,7 @@
       "subdetail_7": "",
       "subdetail_8": "","resume":"",
       "name": "señales",
-      "multa_1": " Multa: 100 unidades fijas y decomiso de los elementos.",
+      "multa_1": "Multa: 100 unidades fijas y decomiso de los elementos.",
       "multa_2":"",
       "multa_3":"",
       "multa_4" :"",
@@ -1564,7 +1564,7 @@
       "multa_5" :""
     },{
       "title": "BOCACALLES.",
-      "detail": "No respetar la prioridad de paso en una bocacalle y/o un indicador de "PARE" es motivo de multa. Art. 288 Ley 4.811.",
+      "detail": "No respetar la prioridad de paso en una bocacalle y/o un indicador de PARE es motivo de multa. Art. 288 Ley 4.811.",
       "id": 5,
       "subdetail": "",
       "subdetail_1": "",
@@ -1621,7 +1621,7 @@
       "multa_5" :""
     },{
       "title": "CARRILES O VÍAS PROHIBIDAS.",
-      "detail": "Es motivo de multa(art. 86 Ley 4.811):",
+      "detail": "Es motivo de multa (art. 86 Ley 4.811):",
       "id": 8,
       "subdetail": "Circular por arterias peatonales, o por zonas o carriles prohibidos, exclusivos, y/o preferenciales, o excediendo los límites dimensiones, peso o potencia, permitidas para la vía transitada,",
       "subdetail_1": "Utilizar el carril del Sistema de tránsito rápido, diferenciado y en red para el transporte público masivo por automotor de pasajeros denominado METROBUS DE BUENOS AIRES,",
