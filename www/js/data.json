@@ -2,7 +2,7 @@
   "tips": [
     {
       "detail": "Es motivo de multa:",
-      "id": 1,
+      "id": 3,
       "subdetail": "Negarse a realizar la prueba de alcoholemia (y presuncion de alcoholemia positiva) Art. 73 de la Ley Nº 24.449, art. 115 Decreto 437/2011.",
       "subdetail_1": "Conducir en estado de intoxicación alcohólica. Art. 48 inciso a) de la Ley Nº 24.449, art. 67 Decreto 437/2011. Se debe detectar 0,5 g de alcohol en litro de sangre mediante el uso de alcoholimetros u otros mecanismos de control homologados. Ante el resultado positivo se debe requerir la intervencion de la autoridad sanitaria pertinente. El interesado puede requerir repetir las pruebas a efectos de contraste.",
       "subdetail_2": "Conducir en estado de intoxicación alcohólica tambien es motivo de arresto del conductor.",
@@ -22,7 +22,7 @@
       "multa_5" :""
     },{
       "detail": "No cumplir con las obligaciones legales para participes de un accidente de tránsito, será sancionado con multa. Art. 65 de la Ley Nº 24.449, art. 113 Decreto 437/2011. Es obligatorio para quienes participan en un accidente de transito: detenerse inmediatamente, denunciar el hecho ante la autoridad de aplicacion, suministrar los datos de la licencia de conducir y del seguro obligatorio a la otra parte y a la autoridad interviniente, comparecer y declarar ante la autoridad de juzgamiento o investigacion cuando sean citados.",
-      "id": 2,
+      "id": 1,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -41,7 +41,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa: ",
-      "id": 3,
+      "id": 2,
       "subdetail": " Adelantarse por la derecha. Art.  42 inciso h) de la Ley Nº 24.449, art. 52 Decreto 437/2011.,",
       "subdetail_1": "Adelantarse en curvas, encrucijadas y otras zonas peligrosas. Art. 48 inciso j) de la Ley Nº 24.449, art. 76 Decreto 437/2011.",
       "subdetail_2": "Recordar que la doble linea amarilla (señal vial horizontal) indica la prohibicion de adelantar a otro vehiculo.",
@@ -59,8 +59,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Conducir un vehículo sin anteojos o lentes de contacto cuando la licencia indique su obligación de uso, es motivo de multa.",
-      "id": 4,
+      "detail": "Conducir un vehículo sin anteojos o lentes de contacto cuando la licencia indique su obligación de uso, es motivo de multa. Art. 14 inc. a) ap. 4) ley 24449, art. 6 decreto 437/2011.",
+      "id": 5,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -79,7 +79,7 @@
       "multa_5" :""
     },{
       "detail": "Dejar animales sueltos y arrear hacienda, salvo en este último caso, por caminos de tierra y fuera de la calzada es motivo de multa; Art.  48 inciso s) de la Ley Nº 24.449, art. 86 Decreto 437/2011.",
-      "id": 5,
+      "id": 4,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -131,25 +131,6 @@
       "title": "AURICULARES.",
       "multa_1":"Conducir utilizandolos: multa de 150 a 500 U.F.",
       "multa_2" :"",
-      "multa_3":"",
-      "multa_4" :"",
-      "multa_5" :""
-    },{
-      "title": "ANTEOJOS - LENTES DE CONTACTO.",
-      "detail": "Conducir un vehículo sin anteojos o lentes de contacto cuando la licencia indique su obligación de uso, es motivo de multa. Art. 14 inc. a) ap. 4) ley 24449, art. 6 decreto 437/2011.",
-      "id": 8,
-      "subdetail": "",
-      "subdetail_1": "",
-      "subdetail_2": "",
-      "subdetail_3": "",
-      "subdetail_4": "",
-      "subdetail_5": "",
-      "subdetail_6": "",
-      "subdetail_7": "",
-      "subdetail_8": "","resume":"",
-      "name": "curva",
-      "multa_1":"100 unidades fijas.",
-      "multa_2":"",
       "multa_3":"",
       "multa_4" :"",
       "multa_5" :""
@@ -345,7 +326,7 @@
       "multa_5" :""
     },{
       "detail": "Circular sobre los separadores de tránsito o fuera de la calzada, salvo sobre la banquina en caso de emergencia es motivo de multa, Art. 48 inciso c) de la Ley Nº 24.449, art. 69 Decreto 437/2011.",
-      "id": 19,
+      "id": 22,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -364,7 +345,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir utilizando celular es motivo de multa. Art. 48 inciso x) de la Ley Nº 24.449, art. 91 Decreto 437/2011.",
-      "id": 20,
+      "id": 19,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -383,7 +364,7 @@
       "multa_5" :""
     },{
       "detail": "La falta de uso de alguno de los ocupantes del vehiculo es motivo de multa. Art. 40 inciso k) de la Ley Nº 24.449, art. 34 Decreto 437/2011.",
-      "id": 21,
+      "id": 20,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -402,7 +383,7 @@
       "multa_5" :""
     },{
       "detail": "Circular con vehículos que emitan gases, humos, ruidos, radiaciones u otras emanaciones contaminantes del ambiente, que excedan los límites reglamentarios es motivo de multa. Art. 48 inciso w) de la Ley Nº 24.449, art. 90 Decreto 437/2011.",
-      "id": 22,
+      "id": 23,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -421,7 +402,7 @@
       "multa_5" :""
     },{
       "detail": "No circular por la calzada sobre la derecha es motivo de multa. Art. 39 de la Ley Nº 24.449, art. 24 Decreto Nº 437/2011.",
-      "id": 23,
+      "id": 21,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -440,7 +421,7 @@
       "multa_5" :""
     },{
       "detail": "No retroceder el conductor del vehículo que desciende en las cuestas estrechas, salvo que éste lleve acoplado y el que asciende no, es motivo de multa. Art. 41, último párrafo, de la Ley Nº 24.449, art. 44 Decreto 437/2011.",
-      "id": 24,
+      "id": 29,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -459,7 +440,7 @@
       "multa_5" :""
     },{
       "detail": "Circular en el sentido contrario de la señalización es motivo de multa. Art. 48 inc. c) de la Ley Nº 24.449, art. 69 Decreto Nº 437/2011.",
-      "id": 25,
+      "id": 24,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -478,7 +459,7 @@
       "multa_5" :""
     },{
       "detail": "Circular con cubiertas con fallas o sin la profundidad legal de los canales en su banda de rodamiento, es motivo de multa. En vehículos de 1,6 mm, en ciclomotores de 0,5 mm. y en motocicletas la profundidad mínima será de 1 mm. Art. 48 inciso l) de la Ley Nº 24.449, art. 78 Decreto 437/2011.",
-      "id": 26,
+      "id": 28,
       "subdetail": "Se consideran cubiertas con fallas las que presentan deterioros visibles como cortaduras que lleguen al casco, desprendimientos o separaciones del caucho o desgaste de la banda de rodamiento que deje expuestas las telas. Los neumaticos de un mismo eje o conjunto deben ser de igual tamaño, tipo, construccion, peso bruto y montados en aros de la misma dimension. Esta prohibida la utilizacion de neumaticos redibujados.",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -496,8 +477,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "",
-      "id": 27,
+      "detail": "Art. 72 inc. b) Ley 24449:",
+      "id": 26,
       "subdetail": "Cuando estuvieren vencidas.",
       "subdetail_1": "Cuando hubieren caducado por cambio de datos no denunciados oportunamente.",
       "subdetail_2": "Cuando no se ajusten a los límites de edad correspondientes.",
@@ -508,15 +489,15 @@
       "subdetail_7": "",
       "subdetail_8": "","resume":"La Lic. de Conducir...",
       "name": "señales",
-      "title": "¿Cuándo corresponde RETENER LA LICENCIA DE CONDUCIR?Art. 72 inc. b) Ley 24449 ",
+      "title": "¿Cuándo corresponde RETENER LA LICENCIA DE CONDUCIR?",
       "multa_1":"",
       "multa_2" :"",
       "multa_3":"",
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "",
-      "id": 28,
+      "detail": "Art. 72 inc. A) Ley 24449:",
+      "id": 25,
       "subdetail": "Cuando sean sorprendidos in-fraganti en estado de intoxicación alcohólica, estupefacientes u otra sustancia. Requiere comprobante médico o de dispositivo aprobado que acredite tal estado. Esta retención no deberá exceder de 12 hs.",
       "subdetail_1": "Por pretender fugar habiendo participado en un accidente por el tiempo necesario para labrar las actuaciones policiales correspondientes. No puede exceder 12 hs.",
       "subdetail_2": "Por conducir un automotor sin habilitado o con la habilitación suspendida.",
@@ -527,15 +508,15 @@
       "subdetail_7": "",
       "subdetail_8": "","resume":"Retener o Arrestar al conductor",
       "name": "velocidad",
-      "title": "¿Cuándo corresponde RETENER o ARRESTAR AL CONDUCTOR?Art. 72 inc. A) Ley 24449",
+      "title": "¿Cuándo corresponde RETENER o ARRESTAR AL CONDUCTOR?",
       "multa_1":"",
       "multa_2" :"",
       "multa_3":"",
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "",
-      "id": 29,
+      "detail": "Art. 72 inc. c) Ley 24449:",
+      "id": 27,
       "subdetail": "Cuando no cumplan con las exigencias de seguridad reglamentaria. La retención durará el tiempo necesario para labrar el acta excepto si el requisito faltante es tal que pone en peligro cierto la seguridad del tránsito. En tal caso la retención durará hasta que se repare el defecto.",
       "subdetail_1": "Si son conducidos por personas no habilitadas para el tipo de vehículos que conducen, inhabilitadas, con habilitación suspendida o que no cumplan con las edades reglamentarias para cada tipo de vehículo. Luego de labrada el acta, el vehículo podrá ser liberado bajo la conducción de otra persona habilitada, caso contrario el vehículo será removido y remitido a los depósitos que indique la autoridad de comprobación.",
       "subdetail_2": "Cuando se comprobare que estuviere o circulare excedido en peso o en sus dimensiones.",
@@ -546,7 +527,7 @@
       "subdetail_7": "",
       "subdetail_8": "","resume":"Retener el vehículo...",
       "name": "señales",
-      "title": "¿Cuándo corresponde RETENER EL VEHÍCULO?Art. 72 inc. c) Ley 24449",
+      "title": "¿Cuándo corresponde RETENER EL VEHÍCULO?",
       "multa_1":"",
       "multa_2" :"",
       "multa_3":"",
@@ -554,7 +535,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa (Art. 40 inciso d) de la Ley Nº 24.449, art. 28 Decreto 437/2011.):",
-      "id": 30,
+      "id": 31,
       "subdetail": "Su falta,",
       "subdetail_1": "Circular con placas de identificacion de dominio no correspondientes,",
       "subdetail_2": "Circular faltando la placa de identificacion de dominio delantera o por no tenerla en lugar reglamentario,",
@@ -573,7 +554,7 @@
       "multa_5" :""
     },{
       "detail": "Su falta no puede ser motivo de multa.",
-      "id": 31,
+      "id": 30,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -591,7 +572,7 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Los conductores que no circulen con cuidado y prevención, o que realicen maniobras sin precaución o que no circulen únicamente por la calzada sobre la derecha y en el sentido de la señalización, no respeten las vías o carriles exclusivos y los horarios de tránsito establecidos, serán sancionados con multa. Art. 39 de la Ley Nº 24, art. 4 Decreto 437/2011.",
+      "detail": "Los conductores que no circulen con cuidado y prevención, o que realicen maniobras sin precaución o que no circulen únicamente por la calzada sobre la derecha y en el sentido de la señalización, no respeten las vías o carriles exclusivos y los horarios de tránsito establecidos, serán sancionados con multa. Art. 39 de la Ley Nº 24.449, art. 4 Decreto 437/2011.",
       "id": 32,
       "subdetail": "",
       "subdetail_1": "",
@@ -820,7 +801,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 44,
+      "id": 45,
       "subdetail": "Utilizar franquicia de tránsito no reglamentaria, o usarla indebidamente, es motivo de multa. Art. 63 de la Ley Nº 24.449, art. 112 Decreto 437/2011.-",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -839,7 +820,7 @@
       "multa_5" :""
     },{
       "detail": "Para que tengan plena validez deben cumplir ciertos requisitos técnicos y legales (cualquier defecto técnico o legal inhabilita la infracción):",
-      "id": 45,
+      "id": 44,
       "subdetail": "La confección del acta y su notificación deben cumplir ciertas formalidades (art. 70 inc. A) ap. 3 y 4 Ley 24449 y Decreto 779).",
       "subdetail_1": "La autoridad debe identificarse ante el presunto infactor, indicandole la dependencia al la que pertenece,",
       "subdetail_2": "Se debe utilizar el formulario de acta reglamentario, entregando copia al presunto infractor (salvo que no se identificarse o se diere a la fuga, lo cual se hara constar en el acta).",
@@ -915,7 +896,7 @@
       "multa_5" :"No portar licencia estando habilitado: multa de 50 a 100 U.F."
     },{
       "detail": "Es requisito obligatorio para circular. Su falta es motivo de multa. Art. 40 inciso f) de la Ley Nº 24.449, art. 29 Decreto 437/2011.",
-      "id": 49,
+      "id": 51,
       "subdetail": "Debe estar construido segun normas IRAM, ubicarse dentro del habitaculo del vehiculo al alcance del conductor (excepto los mayores a 1 kg). El soporte debe impedir el desprendimiento, debe poder ser liberado facilmente para su empleo y ubicarse en un lugar que no cree riesgos.",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -934,7 +915,7 @@
       "multa_5" :""
     },{
       "detail": "Disminuir arbitraria y bruscamente la velocidad, realizar movimientos zigzagueantes o maniobras caprichosas e intempestivas, es motivo de multa. Art. 48 inciso d) de la Ley Nº 24.449, art. 70 Decreto 437/2011.",
-      "id": 50,
+      "id": 54,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -953,7 +934,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 51,
+      "id": 72,
       "subdetail_1": "Circular sin portar el comprobante de la poliza de seguro. Art. 40 inciso c) de la Ley Nº 24.449, art. 27 Decreto 437/2011.",
       "subdetail_2": "Circular sin tener cobertura de seguro obligatorio. Art. 68 de la Ley Nº 24.449, art. 114 Decreto 437/2011.",
       "subdetail_3": "",
@@ -972,7 +953,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 52,
+      "id": 49,
       "subdetail": "No cumplir las reglas previstas para el uso de luces. Art. 47 de la Ley Nº 24.449, art. 66  Decreto 437/2011.",
       "subdetail_1": "Circular sin contar el vehiculo sin el sistema de iluminacion correspondiente y las luces adicionales exigidas. Arts. 31 y 32 de la Ley Nº 24.449, art. 17 Decreto 437/2011.",
       "subdetail_2": "",
@@ -991,10 +972,10 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 53,
+      "id": 55,
       "subdetail": "Ejecutar o instalar obras o dispositivos en la vía pública que no se ajusten a las normas básicas de seguridad vial, Art. 21 de la Ley Nº 24.449, art. 9 Decreto 437/2011.",
-      "subdetail_1": "Realizar obras en la vía pública sin contar con la autorización previa de la autoridad competente, cuando ésta sea exigible, es motivo de multa. No efectuar los señalamientos, desvíos o reparaciones en los plazos convenidos, tambien es motivo de multa. Art. 23 de la Ley Nº 24.449, art. 11 Decreto 437/2011.",
-      "subdetail_2": "",
+      "subdetail_1": "Realizar obras en la vía pública sin contar con la autorización previa de la autoridad competente, cuando ésta sea exigible, es motivo de multa.",
+      "subdetail_2": "No efectuar los señalamientos, desvíos o reparaciones en los plazos convenidos, tambien es motivo de multa. Art. 23 de la Ley Nº 24.449, art. 11 Decreto 437/2011.",
       "subdetail_3": "",
       "subdetail_4": "",
       "subdetail_5": "",
@@ -1010,7 +991,7 @@
       "multa_5" :""
     },{
       "detail": "Circular marcha atrás (excepto para estacionar, egresar de un garage o de una calle sin salida), es motivo de multa. 48 inciso h) de la Ley Nº 24.449, art. 74 Decreto 437/2011.",
-      "id": 54,
+      "id": 50,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1029,7 +1010,7 @@
       "multa_5" :""
     },{
       "detail": "Hasta los 10 años es obligatorio que los niños viajen en el asiento trasero con el cinturon de seguridad. Su incumplimiento es motivo de multa. Art. 40 inciso g) de la Ley Nº 24.449, art. 30 Decreto 437/2011",
-      "id": 55,
+      "id": 53,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1048,7 +1029,7 @@
       "multa_5" :""
     },{
       "detail": "Conducir sin tener cumplida la edad reglamentaria es motivo de multa. Art. 11 de la Ley Nº 24.449, art. 2 Decreto 437/2011.",
-      "id": 56,
+      "id": 53,
       "subdetail": "Los menores de 18 años no pueden conducir ciclomotores en zonas céntricas, de gran concentración de vehículos o vías rápidas, Art. 48 inciso e) de la Ley Nº 24.449, art. 71 Decreto 437/2011.",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1067,7 +1048,7 @@
       "multa_5" :""
     },{
       "detail": "La falta de recibo no puede ser motivo de multa.",
-      "id": 57,
+      "id": 56,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1086,7 +1067,7 @@
       "multa_5" :""
     },{
       "detail": "Si el número de ocupantes del vehiculo es superior a la capacidad para la que fue construido es motivo de multa. Art. 40 inciso g) de la Ley Nº 24.449, art. 30 Decreto 437/2011.",
-      "id": 58,
+      "id": 57,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1105,8 +1086,8 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 59,
-      "subdetail": "No ceder el paso al vehículo que sale del paso a nivel, Art. 41 inciso g) apartado 2 de la Ley Nº 24.449, art. 43 Decreto 437/2011. Multa de 150 U.F. hasta 500 U.F.",
+      "id": 58,
+      "subdetail": "No ceder el paso al vehículo que sale del paso a nivel, Art. 41 inciso g) apartado 2 de la Ley Nº 24.449, art. 43 Decreto 437/2011.",
       "subdetail_1": "Cruzar o detenerse en forma indebida indebida en paso a nivel, Art. 48 inciso k) de la Ley Nº 24.449, art. 77 Decreto 437/2011.",
       "subdetail_2": "",
       "subdetail_3": "",
@@ -1219,7 +1200,7 @@
       "multa_5" :""
     },{
       "detail": "No respetar la prioridad de los peatones en las sendas peatonales o zonas peligrosas, es motivo de multa. Art. 41 inciso e) de la Ley Nº 24.449, art. 40 Decreto 437/2011.",
-      "id": 65,
+      "id": 59,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1276,7 +1257,7 @@
       "multa_5" :""
     },{
       "detail": "Efectuar reparaciones en zonas urbanas, salvo arreglos de circunstancia, en cualquier tipo de vehículo, es motivo de multa. Art.  48 inciso r) de la Ley Nº 24.449, art. 85 Decreto 437/2011.",
-      "id": 68,
+      "id": 69,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1294,8 +1275,8 @@
       "multa_4" :"",
       "multa_5" :""
     },{
-      "detail": "Remolcar a otro vehículo sin contar con la habilitación técnica específica o en caso de fuerza mayor sin los dispositivos correspondientes, es motivo de multa. Art.48 inciso ñ) de la Ley Nº 24.449, art. 81 Decreto 437/2011. Efectuar reparaciones en zonas urbanas, salvo arreglos de circunstancia, en cualquier tipo de vehículo, es motivo de multa. Art.  48 inciso r) de la Ley Nº 24.449, art. 85 Decreto 437/2011.",
-      "id": 69,
+      "detail": "Remolcar a otro vehículo sin contar con la habilitación técnica específica o en caso de fuerza mayor sin los dispositivos correspondientes, es motivo de multa. Art.48 inciso ñ) de la Ley Nº 24.449, art. 81 Decreto 437/2011.",
+      "id": 68,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1352,7 +1333,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 72,
+      "id": 73,
       "subdetail": "No señalizar y demarcar la vía pública conforme al Sistema Uniforme de Señalamiento Vial, es motivo de multa. Art. 22 de la Ley Nº 24.449, art. 10 Decreto 437/2011.",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1394,8 +1375,8 @@
       "subdetail": "Sobrepasar otro vehiculo sin constatar previamente que a su izquierda la vía esté libre en una distancia suficiente para evitar todo riesgo, y que ningún conductor que le sigue lo esté a su vez sobrepasando. Art. 42 inciso a) de la Ley Nº 24.449, art. 45 Decreto 437/2011.",
       "subdetail_1": "Sobrepasar sin tener la visibilidad suficiente y/o iniciar la maniobra si se aproxima a una encrucijada, curva, puente, cima de la vía o lugar peligroso. Art. 42 inciso b) de la Ley Nº 24.449, art. 46 Decreto 437/2011.",
       "subdetail_2": "Sobrepasar sin advertir al que le precede su intención de sobrepasarlo por medio de destellos de las luces frontales o la bocina en zona rural y sin utilizar el indicador de giro izquierdo hasta concluir su desplazamiento lateral. Art. 42 inciso c) de la Ley Nº 24.449, art. 47 Decreto 437/2011.",
-      "subdetail_3": "El vehículo que es sobrepasado tambien es pasible de multa si no toma las medidas necesarias para posibilitarlo, circular por la derecha de la calzada y mantenerse, y eventualmente reducir su velocidad. Art. 42 inciso e) de la Ley Nº 24.449, art. 49 Decreto 437/2011.",
-      "subdetail_4": "",
+      "subdetail_3": "Sobrepasar sin efectuar el sobrepaso rápidamente de forma tal de retomar su lugar a la derecha, sin interferir la marcha del vehículo sobrepasado y sin realizarla con el indicador de giro derecho en funcionamiento. Art. 42 inciso d) de la Ley Nº 24.449, art. 48 Decreto 437/2011.",
+      "subdetail_4": "El vehículo que es sobrepasado tambien es pasible de multa si no toma las medidas necesarias para posibilitarlo, circular por la derecha de la calzada y mantenerse, y eventualmente reducir su velocidad. Art. 42 inciso e) de la Ley Nº 24.449, art. 49 Decreto 437/2011.",
       "subdetail_5": "",
       "subdetail_6": "",
       "subdetail_7": "",
@@ -1409,7 +1390,7 @@
       "multa_5" :"Para el vehículo que es sobrepasado si no cumple sus obligaciones legales: multa de 150 a 500 U.F."
     },{
       "detail": "No advertir mediante luz de giro la intencion de cambiar de carril o estorbar la fluidez del transito circulando a menor velocidad que la permitida es motivo de multa. Art. 45 de la Ley Nº 24.449, art. 61 Decreto 437/2011.",
-      "id": 75,
+      "id": 79,
       "subdetail": "Recordar que la advertencia sobre cambio de carril mediante luz de giro debe realizarse con una antelacion de 5 segundos.",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1428,7 +1409,7 @@
       "multa_5" :""
     },{
       "detail": "No ceder el paso a los vehículos de servicio público de urgencia en cumplimiento de su misión, es motivo de multa. Art. 41 inciso c) de la Ley Nº 24.449, art. 38 Dereto 437/2011.",
-      "id": 76,
+      "id": 75,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1466,7 +1447,7 @@
       "multa_5" :""
     },{
       "detail": "Es motivo de multa:",
-      "id": 78,
+      "id": 80,
       "subdetail": "Circular sin haber realizado la revisión técnica periódica obligatoria. Art. 34 de la Ley Nº 24.449, art.  18 Decreto Nº 437/2011.",
       "subdetail_1": "Circular sin la documentación que acredite haber realizado y aprobado la revisión técnica periódica obligatoria.",
       "subdetail_2": "",
@@ -1489,7 +1470,7 @@
     {
       "title": "ALCOHOLEMIA- NEGATIVA A SOMETERSE A CONTROL.",
       "detail": "Es motivo de multa:",
-      "id": 1,
+      "id": 3,
       "subdetail": "Negarse a someterse a las pruebas establecidas de control de alcoholemia, estupefacientes u otras sustancias similares, es motivo de multa . Art. 100 Ley 4811.",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1527,7 +1508,7 @@
     },{
       "title": "ANTEOJOS O LENTES DE CONTACTO.",
       "detail": "Conducir sin anteojos o lentes de contacto es motivo de multa. Art. 269 Ley 4.811.",
-      "id": 3,
+      "id": 5,
       "subdetail": "",
       "subdetail_1": "",
       "subdetail_2": "",
@@ -1906,7 +1887,7 @@
       "multa_5" :""
     },{
       "title": "GIRO PROHIBIDO.",
-      "detail": "Girar hacia una transversal en forma antirreglamentaria o gire en U en la misma arteria, es motivo de multa. Art. 287 Ley 4.811.",
+      "detail": "Girar hacia una transversal en forma antirreglamentaria o girar en U en la misma arteria, es motivo de multa. Art. 287 Ley 4.811.",
       "id": 24,
       "subdetail": "",
       "subdetail_1": "",
@@ -2058,7 +2039,7 @@
       "multa_5" :""
     },{
       "title": "OBLIGACIÓN DE CEDER EL PASO.",
-      "detail": "o ceder el paso a los vehículos de bomberos, ambulancias, policía o de servicios públicos o servicios de urgencia es motivo de multa. Art. 290 Ley 4.811.",
+      "detail": "No ceder el paso a los vehículos de bomberos, ambulancias, policía o de servicios públicos o servicios de urgencia es motivo de multa. Art. 290 Ley 4.811.",
       "id": 32,
       "subdetail": "",
       "subdetail_1": "",
@@ -2286,7 +2267,7 @@
       "multa_5" :""
     },{
       "title": "TELÉFONOS CELULARES Y/O REPRODUCTORES DE VIDEO.",
-      "detail": "Es motivo de multa(art. 80 ley 4.811): ",
+      "detail": "Es motivo de multa (art. 80 ley 4.811):",
       "id": 46,
       "subdetail": "Conducir un vehículo o motovehículo manipulando teléfono celular o utilizando auriculares en ambos oídos o utilizando equipos reproductores de video,",
       "subdetail_1": "Cuando el conductor se encuentre redactando o enviando mensajes de texto.",
@@ -2305,7 +2286,7 @@
       "multa_5" :""
     },{
       "title": "VELOCIDAD",
-      "detail": "Es motivo de multa(art. 81 ley 4.811): ",
+      "detail": "Es motivo de multa (art. 81 ley 4.811): ",
       "id": 47,
       "subdetail": "No respetar los límites de velocidad máximos establecidos, cuando circulare a una velocidad superior a 140 Kilometros por hora; sea cual fuere el tipo de calzada por el que transite (arterias, avenidas, vías rápidas, etc.).",
       "subdetail_1": "No respetar los límites de velocidad máximos establecidos, cuando circulare en exceso de más de 20 k/h en la velocidad permitida para el tipo de arteria y de más de 40 k/h en el caso de vías rápidas y, en ambos casos, hasta 140 k/h.",
@@ -2336,7 +2317,7 @@
       "subdetail_7": "",
       "subdetail_8": "","resume":"",
       "name": "curva",
-      "multa_1":"No portar el certificado de verificación técnica:Multa  100 unidades fijas.",
+      "multa_1":"No portar el certificado de verificación técnica: 100 unidades fijas.",
       "multa_2":"No haber realizado la verificación técnica cuando correspondiere, o se encontrara el certificado vencido: 400 unidades fijas.",
       "multa_3":"",
       "multa_4" :"",
